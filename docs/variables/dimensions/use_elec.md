@@ -37,7 +37,7 @@ use_elec
 ├── grid_losses                         # Grid losses
 └── dac                                 # Direct air capture
 ```
-[Download csv file with labels](files/use_elec.csv)
+[Download csv file with labels](/instructions-data/files/use_elec.csv)
 
 
 

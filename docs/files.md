@@ -14,7 +14,7 @@ The platform accepts two file formats.
 
  | Column | Description  | Valid entries CROSS 2025 |
 | ---- | ------------ | ------------------------ |
-| scenario_name       | Scenario name           | `abroad-res-full` `abroad-res-lim`<br>`abroad-nores-full`<br>`abroad-nores-lim`<br>`domestic-res-full`<br>`domestic-res-lim`<br>`domestic-nores-full`<br>`domestic-nores-lim` |
+| scenario_name       | Scenario name           | `abroad-res-full` <br> `abroad-res-lim`<br>`abroad-nores-full`<br>`abroad-nores-lim`<br>`domestic-res-full`<br>`domestic-res-lim`<br>`domestic-nores-full`<br>`domestic-nores-lim` |
 | variable            | Variable name           | [Valid variables](/variables) |
 | use_technology_fuel | Use, technology or fuel | Depending on variable  |
 | country             | Country                 | CH  |

@@ -23,7 +23,7 @@ dim_tech_storage
 └── waste               # Waste storage
 ```
 
-[Download csv file with labels](files/tech_storage.csv)
+[Download csv file with labels](/instructions-data/files/tech_storage.csv)
 
 
 - Used in variables: `storage_installed_volume`, `storage_output`

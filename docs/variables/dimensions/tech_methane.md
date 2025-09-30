@@ -18,6 +18,6 @@ tech_methane
 ├── imports_methane                 # Methane (not-fossil) imports
 └── imports_gas                     # Natural gas imports
 ```
-[Download csv file with labels](files/tech_methane.csv)
+[Download csv file with labels](/instructions-data/files/tech_methane.csv)
 
 - Used in variables: `methane_supply`

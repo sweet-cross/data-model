@@ -35,7 +35,7 @@ tech_heat
 ├── geothermal_heat				# Geothermal
 └── district_heat				# District heat
 ```
-[Download csv file with labels](files/tech_heat.csv)
+[Download csv file with labels](/instructions-data/files/tech_heat.csv)
 
 
 - Used in variables: `process_heat_useful_energy_production`, `space_heat_useful_energy_supply`, `district_heat_useful_energy_supply`

@@ -23,6 +23,6 @@ use_methane
 └── exports						# Methane exports
 ```
 
-[Download csv file with labels](files/use_methane.csv)
+[Download csv file with labels](/instructions-data/files/use_methane.csv)
 
 - Used in variables: `methane_fec`
