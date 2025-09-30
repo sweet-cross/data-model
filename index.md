@@ -11,9 +11,9 @@ This document describes how to upload data to the CROSS data platform.
 
 
 ## Prepare the data
-- [File types](/files) 
-- [Variable description](/variables) 
-	- [Variable dimensions description](/variables/dimensions)
+- [File types](/docs/files) 
+- [Variable description](/docs/variables) 
+	- [Variable dimensions description](/docs/variables/dimensions)
 
 ## Upload the data
 1. Go to the [upload page](https://app.sweetcross.link/dashboard) 
