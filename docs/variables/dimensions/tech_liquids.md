@@ -1,6 +1,6 @@
 ---
-title: Liquid fuel technologies
-parent: Variables
+title: tech_liquids
+parent: Dimensions
 layout: default
 nav_order: 8
 ---
@@ -18,6 +18,6 @@ dim_tech_liquids
 └── imports_biodiesel       # Biofuels liquids imports
 ```
 
-[Download csv file with labels](../../files/tech_liquids.csv)
+[Download csv file with labels](files/tech_liquids.csv)
 
 - Used in variables: `liquids_supply`

@@ -1,6 +1,6 @@
 ---
-title: Methane technologies
-parent: Variables
+title: tech_methane
+parent: Dimensions
 layout: default
 nav_order: 6
 ---
@@ -9,7 +9,7 @@ nav_order: 6
 
 
 ```
-dim_tech_methane
+tech_methane
 ├── methanation                     # Methanation
 ├── gasification_methane            # Gasification to methane
 ├── wood_gasification_methane       # Wood gasification to methane
@@ -18,6 +18,6 @@ dim_tech_methane
 ├── imports_methane                 # Methane (not-fossil) imports
 └── imports_gas                     # Natural gas imports
 ```
-[Download csv file with labels](../../files/tech_methane.csv)
+[Download csv file with labels](files/tech_methane.csv)
 
 - Used in variables: `methane_supply`

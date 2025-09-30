@@ -1,6 +1,6 @@
 ---
-title: Electricity generation technologies
-parent: Variables
+title: tech_generation
+parent: Dimensions
 layout: default
 nav_order: 2
 ---
@@ -79,7 +79,7 @@ tech_generation
     ├── battery_out					# Discharge of batteries
     └── phs_out						# Discharge of pumped hydro storage
 ```
-[Download csv file with labels](../../files/tech_generation.csv)
+[Download csv file with labels](files/tech_generation.csv)
  
 
 - Used in variables: `electricity_supply`, `electricity_supply_typical_day`

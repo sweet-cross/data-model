@@ -1,6 +1,6 @@
 ---
-title: Hydrogen technologies
-parent: Variables
+title: tech_hydrogen
+parent: Dimensions
 layout: default
 nav_order: 4
 ---
@@ -18,6 +18,6 @@ tech_hydrogen
 ├── methane_pyrolysis			# Methane pyrolysis
 └── imports						# Hydrogen imports
 ```
-[Download csv file with labels](../../files/tech_hydrogen.csv)
+[Download csv file with labels](files/tech_hydrogen.csv)
 
 - Used in variables: `h2_supply`

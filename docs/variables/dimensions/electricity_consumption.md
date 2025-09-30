@@ -1,11 +1,11 @@
 ---
-title: Electricity consumption by end-use
-parent: Variables
+title: use_elec
+parent: Dimensions
 layout: default
 nav_order: 1
 ---
 
-# Fuels
+# Electricity end-uses
 
 ```
 use_elec
@@ -37,7 +37,7 @@ use_elec
 ├── grid_losses                         # Grid losses
 └── dac                                 # Direct air capture
 ```
-[Download csv file with labels](../../files/use_elec.csv)
+[Download csv file with labels](files/use_elec.csv)
 
 
 
