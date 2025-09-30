@@ -11,13 +11,13 @@ nav_order: 3
 
 | Variable name | Description  | Dimension |
 | ---- | ------------ | ------------------------ |
-| `electricity_consumption` | Electricity consumption by end-use | [`Electricity end-uses`](/variables/dimensions/electricity_consumption) |
+| `electricity_consumption` | Electricity consumption by end-use | [`Electricity end-uses`](/variables/dimensions/use_elec) |
 | `electricity_supply` | Electricity supply by technology | [`Electricity generation technologies`](/variables/dimensions/tech_generation) |
-| `h2_fec` | 
+| `h2_fec` | Hydrogen final energy consumption by end-use | [`Hydrogen end-uses`](/variables/dimensions/use_hydrogen) |
 | `h2_supply` | Hydrogen supply by technology | [`Hydrogen production technologies`](/variables/dimensions/tech_hydrogen) |
-| `methane_fec` |
+| `methane_fec` | Methane final energy consumption by end-use | [`Methane end-uses`](/variables/dimensions/use_methane) |
 | `methane_supply` | Methane supply by technology | [`Methane production technologies`](/variables/dimensions/tech_methane) |
-| `liquids_fec`|
+| `liquids_fec`| Liquid fuels final energy consumption by end-use | [`Liquid fuels end-uses`](/variables/dimensions/use_liquids) |
 | `liquids_supply` | Liquid fuels supply by technology | [`Liquid fuel production technologies`](/variables/dimensions/tech_liquids) |
 | `process_heat_useful_energy_production` |
 | `space_heat_useful_energy_supply` |

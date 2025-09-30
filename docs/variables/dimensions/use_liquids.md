@@ -1,0 +1,28 @@
+---
+title: use_liquids
+parent: Dimensions
+layout: default
+nav_order: 9
+---
+
+# Liquid fuels end-uses
+
+```
+use_liquids
+├── elec_generation				# Liquid fuel for electricity generation
+├── storage						# Liquid fuels storage
+├── passenger					# Passenger liquid fuel vehicles
+│	├── passenger_road_public	# Private passenger liquid fuel vehicles
+│	└── passenger_road_private	# Public passenger liquid fuel vehicles
+├── freight_road				# Liquid fuel road freight
+│	├── truck					# Liquid fuel trucks
+│	└── ldv						# Liquid fuel light duty vehicles
+├── space_heating				# Liquid fuels used for space heating
+├── process_heat				# Liquid fuels used for process heat production
+├── fuel_synthesis				# Liquid fuels used for fuel synthesis
+└── exports						# Liquid fuel exports
+```
+
+[Download csv file with labels](files/use_liquids.csv)
+
+- Used in variables: `liquids_fec`
