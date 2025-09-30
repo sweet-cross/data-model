@@ -14,11 +14,11 @@ nav_order: 3
 | `electricity_consumption` | Electricity consumption by end-use | [`Electricity end-use`](/electricity_consumption) |
 | `electricity_supply` | Electricity supply by technology | [`Electricity generation technologies`](/tech_generation) |
 | `h2_fec` | 
-| `h2_supply` |
+| `h2_supply` | Hydrogen supply by technology | [`Hydrogen production technologies`](/tech_hydrogen) |
 | `methane_fec` |
-| `methane_supply` |
+| `methane_supply` | Methane supply by technology | [`Methane production technologies`](/tech_methane) |
 | `liquids_fec`|
-| `liquids_supply` |
+| `liquids_supply` | Liquid fuels supply by technology | [`Liquid fuel production technologies`](/tech_liquids) |
 | `process_heat_useful_energy_production` |
 | `space_heat_useful_energy_supply` |
 | `district_heat_useful_energy_production` |

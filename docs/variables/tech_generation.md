@@ -1,3 +1,10 @@
+---
+title: Electricity generation technologies
+parent: Variables
+layout: default
+nav_order: 2
+---
+
 # Electricity generation technologies
 
 ```
@@ -75,4 +82,4 @@ tech_generation
 [Download csv file with labels](../../files/tech_generation.csv)
  
 
-- Used in variables: : `electricity_supply`, `electricity_supply_typical_day`
+- Used in variables: `electricity_supply`, `electricity_supply_typical_day`

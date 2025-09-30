@@ -1,0 +1,23 @@
+---
+title: Hydrogen technologies
+parent: Variables
+layout: default
+nav_order: 4
+---
+
+# Hydrogen production technologies
+
+
+```
+tech_hydrogen
+├── electrolyser				# Electrolyser
+├── steam_reforming				# Steam reforming
+├── gasification_h2				# Gasification to hydrogen
+├── wood_gasification_h2		# Wood gasification to hydrogen
+├── waste_gasification_h2		# Waste gasification to hydrogen
+├── methane_pyrolysis			# Methane pyrolysis
+└── imports						# Hydrogen imports
+```
+[Download csv file with labels](../../files/tech_hydrogen.csv)
+
+- Used in variables: `h2_supply`
