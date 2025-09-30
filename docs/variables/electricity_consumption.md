@@ -1,6 +1,6 @@
 ---
-title: electricity_consumption
-parent: Electricity consumption by end-use
+title: Electricity consumption by end-use
+parent: Variables
 layout: default
 nav_order: 1
 ---
