@@ -1,6 +1,6 @@
 ---
 title: Fuels
-parent: Variables
+parent: Dimensions
 layout: default
 nav_order: 11
 ---
