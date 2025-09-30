@@ -1,0 +1,13 @@
+id,level,id_parent,label_en,label_de,label_fr,explanation_en
+elec_generation,0,,"Methane (includes natural gas, biogas, biomethane) for electricity generation",,,
+storage,0,,Methane storage,,,
+passenger,0,,Passenger methane vehicles,,,
+passenger_road_public,1,passenger,Private passenger methane vehicles,,,
+passenger_road_private,1,passenger,Public passenger methane vehicles,,,
+freight_road,0,,Methane road freight,,,
+truck,1,freight_road,Methane trucks,,,
+ldv,1,freight_road,Methane light duty vehicles,,,
+space_heating,0,,Methane used for space heating,,,
+process_heat,0,,Methane used for process heat production,,,
+fuel_synthesis,0,,Methane used for fuel synthesis,,,
+exports,0,,Methane exports,,,

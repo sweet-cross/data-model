@@ -1,0 +1,8 @@
+id,level,id_parent,label_en,label_de,label_fr,explanation_en
+methanation,0,,Methanation,,,Sabatier reaction
+gasification_methane,0,,Gasification to methane,,,
+wood_gasification_methane,1,,Wood gasification to methane,,,
+waste_gasification_methane,1,,Waste gasification to methane,,,
+anaerobic_digestion,0,,Anaerobic digestion,,,
+imports_methane,0,,Methane (not-fossil) imports,,,
+imports_gas,0,,Natural gas imports,,,

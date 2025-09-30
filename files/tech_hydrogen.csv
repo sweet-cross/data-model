@@ -1,0 +1,8 @@
+id,level,id_parent,label_en,label_de,label_fr,explanation_en
+electrolyser,0,,Electrolyser,,,
+steam_reforming,0,,Steam reforming,,,
+gasification_h2,0,,Gasification to hydrogen,,,
+wood_gasification_h2,1,,Wood gasification to hydrogen,,,
+waste_gasification_h2,1,,Waste gasification to hydrogen,,,
+methane_pyrolysis,0,,Methane pyrolysis,,,
+imports,0,,Hydrogen imports,,,

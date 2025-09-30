@@ -1,0 +1,13 @@
+id,level,id_parent,label_en,label_de,label_fr,explanation_en
+thermal,0,,Thermal energy storage,,,
+thermal_short,1,thermal,Short term thermal energy storage,,,
+thermal_long,1,thermal,Long term thermal energy storage,,,
+h2,0,,Hydrogen,,,
+h2_short,1,h2,Hydrogen-short-term,,,
+h2_long,1,h2,Hydrogen-long-term,,,
+electricity,0,,Electricity storage,,,
+batteries,1,electricity,Battery storage,,,
+phs,1,electricity,Pumped hydro storage,Pumpspeicher,Pompage-turbinage,
+methane,0,,Methane storage,,,
+liquid_fuels,0,,Liquid fuels storage,,,
+waste,0,,Waste storage,,,
