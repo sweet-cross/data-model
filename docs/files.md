@@ -48,16 +48,16 @@ The excel file is the unstack version of the CSV file, it has two sheets:
   
 2.  `annual`
 
-| Column | Description  | Valid entries CROSS 2025 |
-| ---- | ------------ | ------------------------ |
-| scenario_name       | Scenario name           | `abroad-res-full`<br>`abroad-res-lim`<br>`abroad-nores-full`<br>`abroad-nores-lim`<br>`domestic-res-full`<br>`domestic-res-lim`<br>`domestic-nores-full`<br>`domestic-nores-lim` |
-| variable            | Variable name           | [Valid variables](/instructions-data/docs/variables) |
-| use_technology_fuel | Use, technology or fuel | Depending on [variables](/instructions-data/docs/variables)   |
-| country             | Country                 | CH  |
-| scenario_group      | Scenario group          | cross202506  |
-| scenario_variant    | Scenario variant        | reference, high or low |
-| model               | Model ID                | Model ID (identical to the username for loggin to the platform)  |
-| unit                | Unit                    | TWh for annual data and GW (GWh/h) for hourly data |
-| time_resolution     | Time resolution         | typical-day   |
-| YYYY MM DD HH:mm    | Value of the variable for hour YYYY MM DD HH:mm |   |
+	| Column | Description  | Valid entries CROSS 2025 |
+	| ---- | ------------ | ------------------------ |
+	| scenario_name       | Scenario name           | `abroad-res-full`<br>`abroad-res-lim`<br>`abroad-nores-full`<br>`abroad-nores-lim`<br>`domestic-res-full`<br>`domestic-res-lim`<br>`domestic-nores-full`<br>`domestic-nores-lim` |
+	| variable            | Variable name           | [Valid variables](/instructions-data/docs/variables) |
+	| use_technology_fuel | Use, technology or fuel | Depending on [variables](/instructions-data/docs/variables)   |
+	| country             | Country                 | CH  |
+	| scenario_group      | Scenario group          | cross202506  |
+	| scenario_variant    | Scenario variant        | reference, high or low |
+	| model               | Model ID                | Model ID (identical to the username for loggin to the platform)  |
+	| unit                | Unit                    | TWh for annual data and GW (GWh/h) for hourly data |
+	| time_resolution     | Time resolution         | typical-day   |
+	| YYYY MM DD HH:mm    | Value of the variable for hour YYYY MM DD HH:mm |   |
 

@@ -25,7 +25,7 @@ nav_order: 3
 | `passenger_road_public_fec` | Passenger road public transport final energy consumption by fuel | [`Fuels`](/instructions-data/docs/variables/dimensions/fuel)|
 | `passenger_road_private_fec`  | Passenger road transport final energy consumption by fuel | [`Fuels`](/instructions-data/docs/variables/dimensions/fuel)|
 | `freight_road_fec` | Fright road transport final energy consumption by fuel | [`Fuels`](/instructions-data/docs/variables/dimensions/fuel)|
-| `storage_installed_volume`| Installed storage volume by storage type | [`Fuels`](/instructions-data/docs/variables/dimensions/tech_storage)|
-| `storage_output`| Storage output by storage type | [`Fuels`](/instructions-data/docs/variables/dimensions/tech_storage)|
+| `storage_installed_volume`| Installed storage volume by storage type | [`Storage technologies`](/instructions-data/docs/variables/dimensions/tech_storage)|
+| `storage_output`| Storage output by storage type | [`Storage technologies`](/instructions-data/docs/variables/dimensions/tech_storage)|
 | `electricity_consumption_typical_day` | Electricity consumption by end-use | [`Electricity end-uses`](/instructions-data/docs/variables/dimensions/use_elec)|
 | `electricity_supply_typical_day` | Electricity supply by technology | [`Electricity generation technologies`](/instructions-data/docs/variables/dimensions/tech_generation)|
