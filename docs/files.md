@@ -15,7 +15,7 @@ The platform accepts two file formats.
  | Column | Description  | Valid entries CROSS 2025 |
 | ---- | ------------ | ------------------------ |
 | scenario_name       | Scenario name           | `abroad-res-full` `abroad-res-lim`<br>`abroad-nores-full`<br>`abroad-nores-lim`<br>`domestic-res-full`<br>`domestic-res-lim`<br>`domestic-nores-full`<br>`domestic-nores-lim` |
-| variable            | Variable name           | [`electricity_consumption`](#electricity_consumption)<br>[`electricity_supply`](#electricity_supply)<br>[`h2_fec`](#h2_fec)<br>[`h2_supply`](#h2_supply)<br>[`methane_fec`](#methane_fec)<br>[`methane_supply`](#methane_supply)<br>[`liquids_fec`](#liquids_fec)<br>[`liquids_supply`](#liquids_supply)<br>[`process_heat_useful_energy_production`](#tech_heat)<br>[`space_heat_useful_energy_supply`](#tech_heat)<br>[`district_heat_useful_energy_production`](#tech_heat)<br>[`passenger_road_public_fec`](#fuel)<br>[`passenger_road_private_fec`](#fuel)<br>[`freight_road_fec`](#fuel)<br>[`storage_installed_volume`](#storage_installed_volume)<br>[`storage_output`](#storage_output)<br>[`electricity_consumption_typical_day`](#electricity_consumption)<br>[`electricity_supply_typical_day`](#electricity_supply) |
+| variable            | Variable name           | [Valid variables](/variables) |
 | use_technology_fuel | Use, technology or fuel | Depending on variable  |
 | country             | Country                 | CH  |
 | scenario_group      | Scenario group          | cross202506  |
@@ -32,7 +32,7 @@ The platform accepts two file formats.
 | Sheet | Column | Description  | Valid entries CROSS 2025 |
 | ---- | ---- | ------------ | ------------------------ |
 annual | scenario_name       | Scenario name           | `abroad-res-full`<br>`abroad-res-lim`<br>`abroad-nores-full`<br>`abroad-nores-lim`<br>`domestic-res-full`<br>`domestic-res-lim`<br>`domestic-nores-full`<br>`domestic-nores-lim` |
-|| variable            | Variable name           | [`electricity_consumption`](#electricity_consumption)<br>[`electricity_supply`](#electricity_supply)<br>[`h2_fec`](#h2_fec)<br>[`h2_supply`](#h2_supply)<br>[`methane_fec`](#methane_fec)<br>[`methane_supply`](#methane_supply)<br>[`liquids_fec`](#liquids_fec)<br>[`liquids_supply`](#liquids_supply)<br>[`process_heat_useful_energy_production`](#tech_heat)<br>[`space_heat_useful_energy_supply`](#tech_heat)<br>[`district_heat_useful_energy_production`](#tech_heat)<br>[`passenger_road_public_fec`](#fuel)<br>[`passenger_road_private_fec`](#fuel)<br>[`freight_road_fec`](#fuel)<br>[`storage_installed_volume`](#storage_installed_volume)<br>[`storage_output`](#storage_output)<br>[`electricity_consumption_typical_day`](#electricity_consumption)<br>[`electricity_supply_typical_day`](#electricity_supply) |
+|| variable            | Variable name           | [Valid variables](/variables) |
 || use_technology_fuel | Use, technology or fuel | Depending on variable  |
 || country             | Country                 | CH  |
 || scenario_group      | Scenario group          | cross202506  |
