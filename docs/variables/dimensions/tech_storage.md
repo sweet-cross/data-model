@@ -1,0 +1,29 @@
+---
+title: tech_storage
+parent: Dimensions
+layout: default
+nav_order: 11
+---
+
+# Storage technologies
+
+```
+dim_tech_storage
+├── thermal             # Thermal energy storage
+│   ├── thermal_short   # Short term thermal energy storage
+│   └── thermal_long    # Long term thermal energy storage
+├── h2                  # Hydrogen
+│   ├── h2_short        # Hydrogen-short-term
+│   └── h2_long         # Hydrogen-long-term
+├── electricity         # Electricity storage
+│   ├── batteries       # Battery storage
+│   └── phs             # Pumped hydro storage
+├── methane             # Methane storage
+├── liquid_fuels        # Liquid fuels storage
+└── waste               # Waste storage
+```
+
+[Download csv file with labels](files/tech_storage.csv)
+
+
+- Used in variables: `storage_installed_volume`, `storage_output`
