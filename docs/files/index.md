@@ -11,6 +11,22 @@ nav_order: 2
 {:toc}
 
 
+## Fields
+
+| Field name | Description  | Valid entries | Example |
+| ---- | ------------ | ------------------- |------ |
+| scenario_name       | Scenario name  | [Valid scenarios](/instructions-data/docs/scenarios) | `abroad-res-full` |
+| variable            | Variable name  | [Valid variables](/instructions-data/docs/variables) |  `electricity_supply`|
+| use_technology_fuel | Subcategory including end-uses, technology or fuel, depending on the variable  | `spv_rooftop`|
+| country             | Country        | `CH` ||
+| scenario_group      | Scenario group | `cross202209` or `cross202506`  |
+| scenario_variant    | Scenario variant        | `reference`, `high` or `low` |
+| model               | Model ID                |  [Valid model IDs](/instructions-data/docs/models) |
+| unit                | Unit                    | `TWh` for annual data and `GW` (GWh/h) for hourly data |
+| time_resolution     | Time resolution         | `annual` or `typical-day`   |
+| timestamp           | Time stamp              | annual: YYYY<br>typical-day: YYYY MM DD HH:mm  |
+| value               | Value                   |   |
+
 
 
 

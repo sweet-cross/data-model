@@ -10,7 +10,7 @@ nav_order: 4
 | ---- | ------------ | ------------------------ |
 | `calliope`|	CALLIOPE	| Calliope and Euro-Calliope|
 | `ehub`|	EHUB|	E-hub tool|
-| `expanse`|	EXPANSE	EXploration of PAtterns in Near-optimal Energy ScEnarios|
+| `expanse`|	EXPANSE	| EXploration of PAtterns in Near-optimal Energy ScEnarios|
 | `nexuse`|	NEXUS-E	|Nexus-e|
 | `secmod`|	SecModel|	SecMOD|
 | `stem`|	STEM|	Swiss TIMES Energy Systems Model|
