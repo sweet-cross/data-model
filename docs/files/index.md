@@ -80,6 +80,7 @@ Empty cells will throw and error in the submission
 
 # Variables not in your model
 You can exclude all variables that are not included in your model.
+
 {: .important }
 Empty cells will throw and error in the submission
 
