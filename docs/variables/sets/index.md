@@ -2,6 +2,7 @@
 title: Sets
 parent: Variables
 nav_order: 2
+has_toc: false
 ---
 
 # Sets
@@ -21,5 +22,3 @@ Each variable is defined over one of the following set of subcategories.
 | [`use_hydrogen`](/instructions-data/docs/variables/sets/use_hydrogen)| Hydrogen end-uses |
 | [`use_liquids`](/instructions-data/docs/variables/sets/use_liquids)| Liquid fuels end-uses |
 | [`use_methane`](/instructions-data/docs/variables/sets/use_methane)| Methane end-uses |
-
-{: .no_toc }
