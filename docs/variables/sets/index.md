@@ -22,4 +22,4 @@ Each variable is defined over one of the following set of subcategories.
 | [`use_liquids`](/instructions-data/docs/variables/sets/use_liquids)| Liquid fuels end-uses |
 | [`use_methane`](/instructions-data/docs/variables/sets/use_methane)| Methane end-uses |
 
-
+{: .no_toc }
