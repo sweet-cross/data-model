@@ -15,8 +15,9 @@ This document describes how to upload data to the CROSS data platform.
 The first step for submitting data is preparing the data files.  The platform accepts two types of [data files](/instructions-data/docs/files): CSV and Excel. 
 We use a standard naming of [variable names](/instructions-data/docs/variables). 
 
-> [!IMPORTANT]
-> The submission will throw and error if the standard variable names are not used 
+{: .important }
+The submission will throw and error if the standard variable names are not used 
+
 
 ## Upload the data
 

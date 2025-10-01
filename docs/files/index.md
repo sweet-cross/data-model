@@ -68,12 +68,13 @@ The excel file is the unstack version of the CSV file, it has two sheets:
 
 # Zero values
 Zero values should be explicitly written as `0`.
-> [!IMPORTANT]
-> Empty cells will throw and error in the submission
+
+{: .important }
+Empty cells will throw and error in the submission
 
 # Variables not in your model
 You can exclude all variables that are not included in your model.
-> [!IMPORTANT]
-> Empty cells will throw and error in the submission
+{: .important }
+Empty cells will throw and error in the submission
 
 
