@@ -5,10 +5,10 @@ nav_order: 2
 ---
 
 
-# Files
+# Files formats
 {: .no_toc }
 
-The platform accepts two file formats.
+The platform accepts two file formats: CSV and excel with specific columns. 
 
 ## CSV file
 
@@ -65,4 +65,15 @@ The excel file is the unstack version of the CSV file, it has two sheets:
 	| YYYY MM DD HH:mm    | Value of the variable for hour YYYY MM DD HH:mm |   |
 
 [Download empty excel file](/instructions-data/files/resultsCross_excel.csv)
+
+# Zero values
+Zero values should be explicitly written as `0`.
+> [!IMPORTANT]
+> Empty cells will throw and error in the submission
+
+# Variables not in your model
+You can exclude all variables that are not included in your model.
+> [!IMPORTANT]
+> Empty cells will throw and error in the submission
+
 
