@@ -11,6 +11,9 @@ nav_order: 2
 {:toc}
 
 
+
+
+
 # File formats
 The platform accepts two file formats: [CSV](#csv) and [Excel](#excel) files with specific columns. 
 
@@ -22,11 +25,11 @@ The platform accepts two file formats: [CSV](#csv) and [Excel](#excel) files wit
 | ---- | ------------ | ------------------------ |
 | scenario_name       | Scenario name           | `abroad-res-full` <br> `abroad-res-lim`<br>`abroad-nores-full`<br>`abroad-nores-lim`<br>`domestic-res-full`<br>`domestic-res-lim`<br>`domestic-nores-full`<br>`domestic-nores-lim` |
 | variable            | Variable name           | [Valid variables](/instructions-data/docs/variables) |
-| use_technology_fuel | Use, technology or fuel | Depending on [variables](/instructions-data/docs/variables)  |
+| use_technology_fuel | Subcategory including end-uses, technology or fuel | Depending on [variables](/instructions-data/docs/variables)  |
 | country             | Country                 | `CH` |
 | scenario_group      | Scenario group          | `cross202506`  |
 | scenario_variant    | Scenario variant        | `reference`, `high` or `low` |
-| model               | Model ID                | Model ID (identical to the username for loggin to the platform)  |
+| model               | Model ID                |  [Valid model IDs](/instructions-data/docs/models) |
 | unit                | Unit                    | `TWh` for annual data and `GW` (GWh/h) for hourly data |
 | time_resolution     | Time resolution         | `annual` or `typical-day`   |
 | timestamp           | Time stamp              | annual: YYYY<br>typical-day: YYYY MM DD HH:mm  |
@@ -50,7 +53,7 @@ The excel file is the unstack version of the CSV file, it has two sheets:
 	| country             | Country                 | `CH`  |
 	| scenario_group      | Scenario group          | `cross202506`  |
 	| scenario_variant    | Scenario variant        | `reference`, `high` or `low` |
-	| model               | Model ID                | Model ID (identical to the username for loggin to the platform)  |
+	| model               | Model ID                |  [Valid model IDs](/instructions-data/docs/models) |
 	| unit                | Unit                    | `TWh` for annual data and `GW` (GWh/h) for hourly data |
 	| time_resolution     | Time resolution         | `annual`  |
 	| YYYY 				  | Value of the variable for year YYYY |   |
@@ -65,7 +68,7 @@ The excel file is the unstack version of the CSV file, it has two sheets:
 	| country             | Country                 | `CH`  |
 	| scenario_group      | Scenario group          | `cross202506`  |
 	| scenario_variant    | Scenario variant        | `reference`, `high` or `low` |
-	| model               | Model ID                | Model ID (identical to the username for loggin to the platform)  |
+	| model               | Model ID                |  [Valid model IDs](/instructions-data/docs/models) |
 	| unit                | Unit                    | `TWh` for annual data and `GW` (GWh/h) for hourly data |
 	| time_resolution     | Time resolution         | `typical-day`   |
 	| YYYY MM DD HH:mm    | Value of the variable for hour YYYY MM DD HH:mm |   |
@@ -75,13 +78,13 @@ The excel file is the unstack version of the CSV file, it has two sheets:
 # Zero values
 Zero values should be explicitly written as `0`.
 
-{: .important }
+{: .warning }
 Empty cells will throw and error in the submission
 
 # Variables not in your model
 You can exclude all variables that are not included in your model.
 
-{: .important }
+{: .warning }
 Empty cells will throw and error in the submission
 
 

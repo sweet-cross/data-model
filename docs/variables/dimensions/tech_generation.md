@@ -7,6 +7,9 @@ nav_order: 2
 
 # Electricity generation technologies
 
+{: .important }
+Used in variables: `electricity_supply`, `electricity_supply_typical_day`
+
 ```
 tech_generation
 ├── thermal                         # Thermal power plants
@@ -82,4 +85,4 @@ tech_generation
 [Download csv file with labels](/instructions-data/files/tech_generation.csv)
  
 
-- Used in variables: `electricity_supply`, `electricity_supply_typical_day`
+

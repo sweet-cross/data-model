@@ -4,11 +4,12 @@ nav_order: 3
 ---
 
 # Variables
-{:toc}
+{: .no_toc }
+
+{: .fs-6 .fw-300 }
 
 
-
-| Variable name | Description  | Dimension |
+| Variable name<br>`variable` | Description  | Dimension (defined along)<br>`use_technology_fuel` |
 | ---- | ------------ | ------------------------ |
 | `electricity_consumption` | Electricity consumption by end-use | [`Electricity end-uses`](/instructions-data/docs/variables/dimensions/use_elec) |
 | `electricity_supply` | Electricity supply by technology | [`Electricity generation technologies`](/instructions-data/docs/variables/dimensions/tech_generation) |
