@@ -4,16 +4,17 @@ layout: default
 nav_order: 2
 ---
 
+
+# Files 
+{: .no_toc }
 1. TOC
 {:toc}
 
-# Files formats
-{: .no_toc }
-
 The platform accepts two file formats: [CSV](#csv) and [Excel](#excel) files with specific columns. 
 
+# File formats
 <a id="csv"></a>
-## CSV file
+### CSV file
 
  | Column | Description  | Valid entries CROSS 2025 |
 | ---- | ------------ | ------------------------ |
@@ -33,7 +34,7 @@ The platform accepts two file formats: [CSV](#csv) and [Excel](#excel) files wit
 [Download empty csv file](/instructions-data/files/resultsCross_stacked.csv)
 
 <a id="excel"></a>
-## Excel file
+### Excel file
 
 The excel file is the unstack version of the CSV file, it has two sheets:
 
