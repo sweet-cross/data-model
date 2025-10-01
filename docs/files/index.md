@@ -66,6 +66,3 @@ The excel file is the unstack version of the CSV file, it has two sheets:
 
 [Download empty excel file](/instructions-data/files/resultsCross_excel.csv)
 
-## Examples
-
-[Examples for the use of both files](/instructions-data/docs/templates-and-examples)
