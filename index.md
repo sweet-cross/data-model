@@ -7,7 +7,7 @@ nav_order: 1
 
 # CROSSHub
 
-This document describes how to upload data to the CROSS data platform.
+This document provides a guide to prepare and upload data to the CROSSHub (the CROSS data platform).
 
 
 ## Prepare the data
@@ -25,7 +25,7 @@ Once you prepared the data, you need to follow the following steps:
 3. Upload the Excel or CSV file
 
 {: .warning }
-The platform validates the file. This includes column names, variable names, units, etc. The submission will throw and error if these standards are not met 
+The platform validates the file. This includes column names, variable names, units, etc. The submission will fail and throw and error if these specifications are not met 
 
 	
 
