@@ -65,3 +65,7 @@ The excel file is the unstack version of the CSV file, it has two sheets:
 	| YYYY MM DD HH:mm    | Value of the variable for hour YYYY MM DD HH:mm |   |
 
 [Download empty excel file](/instructions-data/files/resultsCross_excel.csv)
+
+## Examples
+
+[Examples for the use of both files](/instructions-data/docs/templates-and-examples)
