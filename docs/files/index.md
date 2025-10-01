@@ -30,10 +30,11 @@ nav_order: 2
 ## File formats
 The platform accepts two file formats: [CSV](#csv) and [Excel](#excel).  files with specific columns. 
 
-File type | Sheet Category columns | Value column(s) | 
-| ---- | ---- | ---- | 
+File type | Sheet |Category columns | Value columns | 
+| ---- | ---- | ---- | ---- | 
 csv | | scenario_group, scenario_name, scenario_variant, variable, use_technology_fuel, country, model, unit, time_resolution, timestamp | value | 
 excel |  `annual` | scenario_group, scenario_name, scenario_variant, variable, use_technology_fuel, country, model, unit, time_resolution, timestamp | One column per year with header `yyyy` | 
+ `hourly` | scenario_group, scenario_name, scenario_variant, variable, use_technology_fuel, country, model, unit, time_resolution, timestamp | One column per typical day with header `dd.MM.yyyy HH:mm` | 
 
 [Download empty csv file](/instructions-data/files/resultsCross_stacked.csv)
 [Download empty excel file](/instructions-data/files/resultsCross_excel.csv)
