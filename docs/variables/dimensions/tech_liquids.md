@@ -10,12 +10,12 @@ nav_order: 8
 
 ```
 dim_tech_liquids
-├── power_to_liquid         # Power to liquids
-├── liquefaction            # Liquefaction
-├── wood_liquifaction       # Wood liquefaction
-├── waste_liquifaction      # Waste liquefaction
-├── imports_diesel          # Fossil liquids imports
-└── imports_biodiesel       # Biofuels liquids imports
+├── power_to_liquid          # Power to liquids
+├── liquefaction             # Liquefaction
+├── wood_liquifaction        # Wood liquefaction
+├── waste_liquifaction       # Waste liquefaction
+├── imports_diesel           # Fossil liquids imports
+└── imports_biodiesel        # Biofuels liquids imports
 ```
 
 [Download csv file with labels](/instructions-data/files/tech_liquids.csv)

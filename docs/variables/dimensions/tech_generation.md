@@ -8,7 +8,7 @@ nav_order: 2
 # Electricity generation technologies
 
 ```
-dim_tech_generation
+tech_generation
 ├── thermal                         # Thermal power plants
 │   ├── methane_pp                  # Methane (includes natural gas, biogas, biomethane) power plant
 │   │   ├── methane_chp             # Methane (includes natural gas, biogas, biomethane) CHP

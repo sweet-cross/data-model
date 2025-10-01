@@ -8,7 +8,7 @@ nav_order: 11
 # Storage technologies
 
 ```
-dim_tech_storage
+tech_storage
 ├── thermal             # Thermal energy storage
 │   ├── thermal_short   # Short term thermal energy storage
 │   └── thermal_long    # Long term thermal energy storage

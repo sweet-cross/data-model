@@ -10,13 +10,13 @@ nav_order: 4
 
 ```
 tech_hydrogen
-├── electrolyser				# Electrolyser
-├── steam_reforming				# Steam reforming
-├── gasification_h2				# Gasification to hydrogen
-├── wood_gasification_h2		# Wood gasification to hydrogen
-├── waste_gasification_h2		# Waste gasification to hydrogen
-├── methane_pyrolysis			# Methane pyrolysis
-└── imports						# Hydrogen imports
+├── electrolyser                # Electrolyser
+├── steam_reforming             # Steam reforming
+├── gasification_h2             # Gasification to hydrogen
+├── wood_gasification_h2        # Wood gasification to hydrogen
+├── waste_gasification_h2       # Waste gasification to hydrogen
+├── methane_pyrolysis           # Methane pyrolysis
+└── imports                     # Hydrogen imports
 ```
 [Download csv file with labels](/instructions-data/files/tech_hydrogen.csv)
 
