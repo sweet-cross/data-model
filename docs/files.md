@@ -28,10 +28,10 @@ nav_order: 2
 
 
 ## File formats
-The platform accepts two file formats: comma separated values (csv) and excel (xlsx). 
+The platform accepts two file formats: comma-separated values (csv) and Excel (xlsx).
 
 {: .important }
-The submitted file should include all category and value columns
+The submitted file must include all category and value columns.
 
 File type | Sheet |Category columns | Value columns | Template and example file |
 | ---- | ---- | ---- | ---- | --- | 
@@ -41,15 +41,15 @@ excel |  `annual` | `scenario_group`, `scenario_name`, `scenario_variant`, `vari
 
 
 ## Zero values
-Zero values should be explicitly written as `0`.
+Zero values must be explicitly written as `0`.
 
 {: .warning }
-Empty cells will throw and error in the submission
+Empty cells will return an error during submission
 
 ## Variables not in your model
-You can exclude all variables that are not included in your model.
+You can exclude all variables that are not part of your model results.
 
 {: .warning }
-Empty cells will throw and error in the submission
+Empty cells will return an error during submission
 
 
