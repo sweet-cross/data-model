@@ -28,63 +28,23 @@ nav_order: 2
 
 
 ## File formats
-The platform accepts two file formats: [CSV](#csv) and [Excel](#excel) files with specific columns. 
+The platform accepts two file formats: [CSV](#csv) and [Excel](#excel).  files with specific columns. 
 
-
-<a id="csv"></a>
-### CSV file
-
-File type | Columns | 
-| ---- | ---- | 
-csv | scenario_group, scenario_name, scenario_variant, variable, use_technology_fuel, country, model, unit, time_resolution, timestamp, value               | 
-
+File type | Sheet Category columns | Value column(s) | 
+| ---- | ---- | ---- | 
+csv | | scenario_group, scenario_name, scenario_variant, variable, use_technology_fuel, country, model, unit, time_resolution, timestamp | value | 
+excel |  `annual` | scenario_group, scenario_name, scenario_variant, variable, use_technology_fuel, country, model, unit, time_resolution, timestamp | One column per year with header `yyyy` | 
 
 [Download empty csv file](/instructions-data/files/resultsCross_stacked.csv)
-
-<a id="excel"></a>
-### Excel file
-
-The excel file is the unstack version of the CSV file, it has two sheets:
-
-1.  `annual`
-
-	| Column | Description  | Valid entries CROSS 2025 |
-	| ---- | ------------ | ------------------------ |
-	| scenario_name       | Scenario name           | `abroad-res-full`<br>`abroad-res-lim`<br>`abroad-nores-full`<br>`abroad-nores-lim`<br>`domestic-res-full`<br>`domestic-res-lim`<br>`domestic-nores-full`<br>`domestic-nores-lim` |
-	| variable            | Variable name           | [Valid variables](/instructions-data/docs/variables) |
-	| use_technology_fuel | Use, technology or fuel | Depending on [variables](/instructions-data/docs/variables)   |
-	| country             | Country                 | `CH`  |
-	| scenario_group      | Scenario group          | `cross202506`  |
-	| scenario_variant    | Scenario variant        | `reference`, `high` or `low` |
-	| model               | Model ID                |  [Valid model IDs](/instructions-data/docs/models) |
-	| unit                | Unit                    | `TWh` for annual data and `GW` (GWh/h) for hourly data |
-	| time_resolution     | Time resolution         | `annual`  |
-	| YYYY 				  | Value of the variable for year YYYY |   |
-  
-2.  `hourly`
-
-	| Column | Description  | Valid entries CROSS 2025 |
-	| ---- | ------------ | ------------------------ |
-	| scenario_name       | Scenario name           | `abroad-res-full`<br>`abroad-res-lim`<br>`abroad-nores-full`<br>`abroad-nores-lim`<br>`domestic-res-full`<br>`domestic-res-lim`<br>`domestic-nores-full`<br>`domestic-nores-lim` |
-	| variable            | Variable name           | [Valid variables](/instructions-data/docs/variables) |
-	| use_technology_fuel | Use, technology or fuel | Depending on [variables](/instructions-data/docs/variables)   |
-	| country             | Country                 | `CH`  |
-	| scenario_group      | Scenario group          | `cross202506`  |
-	| scenario_variant    | Scenario variant        | `reference`, `high` or `low` |
-	| model               | Model ID                |  [Valid model IDs](/instructions-data/docs/models) |
-	| unit                | Unit                    | `TWh` for annual data and `GW` (GWh/h) for hourly data |
-	| time_resolution     | Time resolution         | `typical-day`   |
-	| YYYY MM DD HH:mm    | Value of the variable for hour YYYY MM DD HH:mm |   |
-
 [Download empty excel file](/instructions-data/files/resultsCross_excel.csv)
 
-# Zero values
+## Zero values
 Zero values should be explicitly written as `0`.
 
 {: .warning }
 Empty cells will throw and error in the submission
 
-# Variables not in your model
+## Variables not in your model
 You can exclude all variables that are not included in your model.
 
 {: .warning }
