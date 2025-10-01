@@ -15,7 +15,7 @@ Each variable is defined over a  [set of subcategories](/instructions-data/docs/
 | ---- | ------------ | ------------------------ |
 | `electricity_consumption` | Electricity consumption by end-use | [`use_elec`](/instructions-data/docs/variables/sets/use_elec) |
 | `electricity_supply` | Electricity supply by technology | [`tech_generation`](/instructions-data/docs/variables/sets/tech_generation) |
-| `h2_fec` | Hydrogen final energy consumption by end-use | [`Hydrogen end-uses`](/instructions-data/docs/variables/sets/use_hydrogen) |
+| `h2_fec` | Hydrogen final energy consumption by end-use | [use_hydrogen`](/instructions-data/docs/variables/sets/use_hydrogen) |
 | `h2_supply` | Hydrogen supply by technology | [`tech_hydrogen`](/instructions-data/docs/variables/sets/tech_hydrogen) |
 | `methane_fec` | Methane final energy consumption by end-use | [`use_methane`](/instructions-data/docs/variables/sets/use_methane) |
 | `methane_supply` | Methane supply by technology | [`tech_methane`](/instructions-data/docs/variables/sets/tech_methane) |

@@ -10,7 +10,7 @@ Each variable is defined over one of the following set of subcategories.
 
 | Set name<br>`use_technology_fuel`  | Description |
 | ---- | ------------------------ |
-| [`fuel`](/instructions-data/docs/variables/use_technology_fuel/fuel)|  |   Fuels|
+| [`fuel`](/instructions-data/docs/variables/use_technology_fuel/fuel)|  Fuels|
 | [`tech_generation`](/instructions-data/docs/variables/use_technology_fuel/tech_generation) |  Electricity generation technologies|
 | [`tech_heat`](/instructions-data/docs/variables/sets/tech_heat)| Heat production technologies |
 | [`tech_hydrogen`](/instructions-data/docs/variables/sets/tech_hydrogen)  | Hydrogen production technologies |
@@ -22,6 +22,4 @@ Each variable is defined over one of the following set of subcategories.
 | [`use_liquids`](/instructions-data/docs/variables/sets/use_liquids)| Liquid fuels end-uses |
 | [`use_methane`](/instructions-data/docs/variables/sets/use_methane)| Methane end-uses |
 
-
-{: .no_toc }
 
