@@ -22,5 +22,5 @@ This document describes how to upload data to the CROSS data platform.
 
 
 ## Problems by uploading data
-- If you encounter problems when uploading data, please send an email to  xxx with the file you were uploading and the description of the error 
+- If you encounter problems when uploading data, please send an email to [sweet-cross](mailto:sweet.cross.ch%gmail.com?subject=technicalproblem) with the file you were uploading and the description of the error 
 
