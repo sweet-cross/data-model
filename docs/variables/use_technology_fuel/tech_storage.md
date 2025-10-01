@@ -2,10 +2,13 @@
 title: tech_storage
 parent: Dimensions
 layout: default
-nav_order: 11
+nav_order: 7
 ---
 
 # Storage technologies
+
+{: .important }
+Used in variables: `storage_installed_volume`, `storage_output`
 
 ```
 tech_storage
@@ -24,6 +27,3 @@ tech_storage
 ```
 
 [Download csv file with labels](/instructions-data/files/tech_storage.csv)
-
-
-- Used in variables: `storage_installed_volume`, `storage_output`

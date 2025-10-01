@@ -2,10 +2,13 @@
 title: tech_heat
 parent: Dimensions
 layout: default
-nav_order: 10
+nav_order: 3
 ---
 
 # Heat technologies
+
+{: .important }
+Used in variables: `process_heat_useful_energy_production`, `space_heat_useful_energy_supply`, `district_heat_useful_energy_supply`
 
 ```
 tech_heat
@@ -37,5 +40,3 @@ tech_heat
 ```
 [Download csv file with labels](/instructions-data/files/tech_heat.csv)
 
-
-- Used in variables: `process_heat_useful_energy_production`, `space_heat_useful_energy_supply`, `district_heat_useful_energy_supply`

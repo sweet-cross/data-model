@@ -2,8 +2,12 @@
 title: fuel
 parent: Dimensions
 layout: default
-nav_order: 11
+nav_order: 1
 ---
+
+{: .important }
+Used in variables: `passenger_road_public_fec`, `passenger_private_public_fec`, `freight_road_fec`
+
 
 # Fuels
 
@@ -51,5 +55,3 @@ fuel
 ```
 [Download csv file with labels](/instructions-data/files/fuel.csv)
 
-
-- Used in variables: `passenger_road_public_fec`, `passenger_private_public_fec`, `freight_road_fec`

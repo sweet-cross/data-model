@@ -2,10 +2,13 @@
 title: use_hydrogen
 parent: Dimensions
 layout: default
-nav_order: 5
+nav_order: 9
 ---
 
 # Hydrogen end-uses
+
+{: .important }
+Used in variables: `h2_fec`
 
 ```
 use_hydrogen
@@ -28,5 +31,3 @@ use_hydrogen
 ```
     
 [Download csv file with labels](/instructions-data/files/use_hydrogen.csv)
-
-- Used in variables: `h2_fec`

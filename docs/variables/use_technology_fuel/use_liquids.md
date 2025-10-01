@@ -2,10 +2,13 @@
 title: use_liquids
 parent: Dimensions
 layout: default
-nav_order: 9
+nav_order: 10
 ---
 
 # Liquid fuels end-uses
+
+{: .important }
+Used in variables: `liquids_fec`
 
 ```
 use_liquids
@@ -25,4 +28,4 @@ use_liquids
 
 [Download csv file with labels](/instructions-data/files/use_liquids.csv)
 
-- Used in variables: `liquids_fec`
+

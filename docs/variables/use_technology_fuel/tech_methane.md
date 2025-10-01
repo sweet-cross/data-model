@@ -7,6 +7,8 @@ nav_order: 6
 
 # Methane production technologies
 
+{: .important }
+Used in variables: `methane_supply`
 
 ```
 tech_methane
@@ -20,4 +22,3 @@ tech_methane
 ```
 [Download csv file with labels](/instructions-data/files/tech_methane.csv)
 
-- Used in variables: `methane_supply`

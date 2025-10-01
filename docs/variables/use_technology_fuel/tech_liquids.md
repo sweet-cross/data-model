@@ -2,14 +2,16 @@
 title: tech_liquids
 parent: Dimensions
 layout: default
-nav_order: 8
+nav_order: 5
 ---
 
 # Liquid fuel production technologies
 
+{: .important }
+Used in variables: `liquids_supply`
 
 ```
-dim_tech_liquids
+tech_liquids
 ├── power_to_liquid          # Power to liquids
 ├── liquefaction             # Liquefaction
 ├── wood_liquefaction        # Wood liquefaction
@@ -19,5 +21,3 @@ dim_tech_liquids
 ```
 
 [Download csv file with labels](/instructions-data/files/tech_liquids.csv)
-
-- Used in variables: `liquids_supply`

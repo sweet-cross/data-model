@@ -2,10 +2,13 @@
 title: use_elec
 parent: Dimensions
 layout: default
-nav_order: 1
+nav_order: 8
 ---
 
 # Electricity end-uses
+
+{: .important }
+Used in variables: `electricity_consumption`, `electricity_consumption_typical_day`
 
 ```
 use_elec
@@ -39,6 +42,3 @@ use_elec
 ```
 [Download csv file with labels](/instructions-data/files/use_elec.csv)
 
-
-
-- Used in variables: `electricity_consumption`, `electricity_consumption_typical_day`

@@ -7,6 +7,9 @@ nav_order: 4
 
 # Hydrogen production technologies
 
+{: .important }
+Used in variables: `h2_supply`
+
 
 ```
 tech_hydrogen
@@ -20,4 +23,4 @@ tech_hydrogen
 ```
 [Download csv file with labels](/instructions-data/files/tech_hydrogen.csv)
 
-- Used in variables: `h2_supply`
+
