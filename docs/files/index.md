@@ -15,7 +15,7 @@ nav_order: 2
 
 | Field name | Description  | Valid entries | Example |
 | ---- | ------------ | ------------------- |------ |
-| scenario_group      | Scenario group | `cross202209`<br>`cross202506`  | `cross202506`  |
+| scenario_group      | Scenario group | `cross202506`<br>`cross202209`  | `cross202506`  |
 | scenario_name       | Scenario name  | [Valid scenarios](/instructions-data/docs/scenarios) | `abroad-res-full` |
 | scenario_variant    | Scenario variant | `reference`<br>`high`<br>`low` |
 | variable            | Variable name  | [Valid variables](/instructions-data/docs/variables) |  `electricity_supply`|
@@ -24,8 +24,7 @@ nav_order: 2
 | model               | Model ID         |  [Valid model IDs](/instructions-data/docs/models) | `seseth` |
 | unit                | Unit             | `TWh` (GWh/a) for annual data <br> `GW` (GWh/h) for hourly data | `TWh` |
 | time_resolution     | Time resolution  | `annual` <br> `typical-day`   |
-| timestamp           | Timestamp, depending on the time_resolution       | `annual`: yyyy<br>`typical-day` : dd.MM.yyyy HH:mm  | 2050 <br> 01.02.2050 07:00 |
-
+| timestamp           | Timestamp, depending on the time_resolution       | `annual`: `yyyy`<br>`typical-day`: `dd.MM.yyyy HH:mm`  | `2050` <br> `01.02.2050 07:00` |
 
 
 ## File formats
@@ -35,19 +34,9 @@ The platform accepts two file formats: [CSV](#csv) and [Excel](#excel) files wit
 <a id="csv"></a>
 ### CSV file
 
- | Column | Description  | Valid entries CROSS 2025 |
-| ---- | ------------ | ------------------------ |
-| scenario_name       | Scenario name           | `abroad-res-full` <br> `abroad-res-lim`<br>`abroad-nores-full`<br>`abroad-nores-lim`<br>`domestic-res-full`<br>`domestic-res-lim`<br>`domestic-nores-full`<br>`domestic-nores-lim` |
-| variable            | Variable name           | [Valid variables](/instructions-data/docs/variables) |
-| use_technology_fuel | Subcategory including end-uses, technology or fuel | Depending on [variables](/instructions-data/docs/variables)  |
-| country             | Country                 | `CH` |
-| scenario_group      | Scenario group          | `cross202506`  |
-| scenario_variant    | Scenario variant        | `reference`, `high` or `low` |
-| model               | Model ID                |  [Valid model IDs](/instructions-data/docs/models) |
-| unit                | Unit                    | `TWh` for annual data and `GW` (GWh/h) for hourly data |
-| time_resolution     | Time resolution         | `annual` or `typical-day`   |
-| timestamp           | Time stamp              | annual: YYYY<br>typical-day: YYYY MM DD HH:mm  |
-| value               | Value                   |   |
+File type | Columns | 
+| ---- | ---- | 
+csv | scenario_group, scenario_name, scenario_variant, variable, use_technology_fuel, country, model, unit, time_resolution, timestamp, value               | 
 
 
 [Download empty csv file](/instructions-data/files/resultsCross_stacked.csv)
