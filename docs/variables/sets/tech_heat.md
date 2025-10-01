@@ -1,6 +1,6 @@
 ---
 title: tech_heat
-parent: Dimensions
+parent: Sets
 layout: default
 nav_order: 3
 ---

@@ -1,6 +1,6 @@
 ---
 title: tech_generation
-parent: Dimensions
+parent: Sets
 layout: default
 nav_order: 2
 ---

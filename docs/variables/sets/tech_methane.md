@@ -1,6 +1,6 @@
 ---
 title: tech_methane
-parent: Dimensions
+parent: Sets
 layout: default
 nav_order: 6
 ---

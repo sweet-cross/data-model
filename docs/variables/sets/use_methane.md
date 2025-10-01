@@ -1,6 +1,6 @@
 ---
 title: use_methane
-parent: Dimensions
+parent: Sets
 layout: default
 nav_order: 11
 ---

@@ -1,6 +1,6 @@
 ---
 title: use_liquids
-parent: Dimensions
+parent: Sets
 layout: default
 nav_order: 10
 ---

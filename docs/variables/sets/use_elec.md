@@ -1,6 +1,6 @@
 ---
 title: use_elec
-parent: Dimensions
+parent: Sets
 layout: default
 nav_order: 8
 ---
