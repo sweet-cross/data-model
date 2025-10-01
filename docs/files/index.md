@@ -10,9 +10,11 @@ nav_order: 2
 1. TOC
 {:toc}
 
-The platform accepts two file formats: [CSV](#csv) and [Excel](#excel) files with specific columns. 
 
 # File formats
+The platform accepts two file formats: [CSV](#csv) and [Excel](#excel) files with specific columns. 
+
+
 <a id="csv"></a>
 ### CSV file
 
