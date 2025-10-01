@@ -4,9 +4,8 @@ nav_order: 3
 ---
 
 # Variables
-{: .no_toc }
+{:toc}
 
-{: .fs-6 .fw-300 }
 
 
 | Variable name | Description  | Dimension |
