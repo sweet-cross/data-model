@@ -34,7 +34,7 @@ The platform accepts two file formats.
 
 The excel file is the unstack version of the CSV file, it has two sheets:
 
-1.  `hourly`
+1.  `annual`
 
 	| Column | Description  | Valid entries CROSS 2025 |
 	| ---- | ------------ | ------------------------ |
@@ -49,7 +49,7 @@ The excel file is the unstack version of the CSV file, it has two sheets:
 	| time_resolution     | Time resolution         | `annual`  |
 	| YYYY 				  | Value of the variable for year YYYY |   |
   
-2.  `annual`
+2.  `hourly`
 
 	| Column | Description  | Valid entries CROSS 2025 |
 	| ---- | ------------ | ------------------------ |

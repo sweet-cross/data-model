@@ -21,5 +21,6 @@ This document describes how to upload data to the CROSS data platform.
 3. Upload the Excel or CSV file
 
 
-
+## Problems by uploading data
+- If you encounter problems when uploading data, please send an email to  xxx with the file you were uploading and the description of the error 
 
