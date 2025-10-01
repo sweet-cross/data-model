@@ -1,7 +1,7 @@
 id,level,id_parent,label_en,label_de,label_fr,explanation_en
 power_to_liquid,0,,Power to liquids,,,Sabatier reaction
 liquefaction,0,,Liquefaction,,,
-wood_liquifaction,1,,Wood liquefaction,,,
-waste_liquifaction,1,,Waste liquefaction,,,
+wood_liquefaction,1,,Wood liquefaction,,,
+waste_liquefaction,1,,Waste liquefaction,,,
 imports_diesel,0,,Fossil liquids imports,,,
 imports_biodiesel,0,,Biofuels liquids imports,,,

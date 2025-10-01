@@ -12,8 +12,8 @@ nav_order: 8
 dim_tech_liquids
 ├── power_to_liquid          # Power to liquids
 ├── liquefaction             # Liquefaction
-├── wood_liquifaction        # Wood liquefaction
-├── waste_liquifaction       # Waste liquefaction
+├── wood_liquefaction        # Wood liquefaction
+├── waste_liquefaction       # Waste liquefaction
 ├── imports_diesel           # Fossil liquids imports
 └── imports_biodiesel        # Biofuels liquids imports
 ```

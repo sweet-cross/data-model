@@ -10660,8 +10660,8 @@ abroad-together,liquids_fec,process_heat,CH,cross202209,reference,seseth,TWh,ann
 abroad-together,liquids_fec,fuel_synthesis,CH,cross202209,reference,seseth,TWh,annual,2050,0
 abroad-together,liquids_fec,exports,CH,cross202209,reference,seseth,TWh,annual,2050,0
 abroad-together,liquids_supply,power_to_liquid,CH,cross202209,reference,seseth,TWh,annual,2050,0
-abroad-together,liquids_supply,wood_liquifaction,CH,cross202209,reference,seseth,TWh,annual,2050,0
-abroad-together,liquids_supply,waste_liquifaction,CH,cross202209,reference,seseth,TWh,annual,2050,0
+abroad-together,liquids_supply,wood_liquefaction,CH,cross202209,reference,seseth,TWh,annual,2050,0
+abroad-together,liquids_supply,waste_liquefaction,CH,cross202209,reference,seseth,TWh,annual,2050,0
 abroad-together,liquids_supply,imports_diesel,CH,cross202209,reference,seseth,TWh,annual,2050,0
 abroad-together,liquids_supply,imports_biodiesel,CH,cross202209,reference,seseth,TWh,annual,2050,0
 abroad-together,process_heat_useful_energy_production,boiler_methane,CH,cross202209,reference,seseth,TWh,annual,2050,4.70617315
@@ -10856,8 +10856,8 @@ abroad-alone,liquids_fec,process_heat,CH,cross202209,reference,seseth,TWh,annual
 abroad-alone,liquids_fec,fuel_synthesis,CH,cross202209,reference,seseth,TWh,annual,2050,0
 abroad-alone,liquids_fec,exports,CH,cross202209,reference,seseth,TWh,annual,2050,0
 abroad-alone,liquids_supply,power_to_liquid,CH,cross202209,reference,seseth,TWh,annual,2050,0
-abroad-alone,liquids_supply,wood_liquifaction,CH,cross202209,reference,seseth,TWh,annual,2050,0
-abroad-alone,liquids_supply,waste_liquifaction,CH,cross202209,reference,seseth,TWh,annual,2050,0
+abroad-alone,liquids_supply,wood_liquefaction,CH,cross202209,reference,seseth,TWh,annual,2050,0
+abroad-alone,liquids_supply,waste_liquefaction,CH,cross202209,reference,seseth,TWh,annual,2050,0
 abroad-alone,liquids_supply,imports_diesel,CH,cross202209,reference,seseth,TWh,annual,2050,0
 abroad-alone,liquids_supply,imports_biodiesel,CH,cross202209,reference,seseth,TWh,annual,2050,0
 abroad-alone,process_heat_useful_energy_production,boiler_methane,CH,cross202209,reference,seseth,TWh,annual,2050,4.081654962
@@ -11052,8 +11052,8 @@ domestic-together,liquids_fec,process_heat,CH,cross202209,reference,seseth,TWh,a
 domestic-together,liquids_fec,fuel_synthesis,CH,cross202209,reference,seseth,TWh,annual,2050,0
 domestic-together,liquids_fec,exports,CH,cross202209,reference,seseth,TWh,annual,2050,0
 domestic-together,liquids_supply,power_to_liquid,CH,cross202209,reference,seseth,TWh,annual,2050,0
-domestic-together,liquids_supply,wood_liquifaction,CH,cross202209,reference,seseth,TWh,annual,2050,0
-domestic-together,liquids_supply,waste_liquifaction,CH,cross202209,reference,seseth,TWh,annual,2050,0
+domestic-together,liquids_supply,wood_liquefaction,CH,cross202209,reference,seseth,TWh,annual,2050,0
+domestic-together,liquids_supply,waste_liquefaction,CH,cross202209,reference,seseth,TWh,annual,2050,0
 domestic-together,liquids_supply,imports_diesel,CH,cross202209,reference,seseth,TWh,annual,2050,0
 domestic-together,liquids_supply,imports_biodiesel,CH,cross202209,reference,seseth,TWh,annual,2050,0
 domestic-together,process_heat_useful_energy_production,boiler_methane,CH,cross202209,reference,seseth,TWh,annual,2050,4.30236601
@@ -11248,8 +11248,8 @@ domestic-alone,liquids_fec,process_heat,CH,cross202209,reference,seseth,TWh,annu
 domestic-alone,liquids_fec,fuel_synthesis,CH,cross202209,reference,seseth,TWh,annual,2050,0
 domestic-alone,liquids_fec,exports,CH,cross202209,reference,seseth,TWh,annual,2050,0
 domestic-alone,liquids_supply,power_to_liquid,CH,cross202209,reference,seseth,TWh,annual,2050,0
-domestic-alone,liquids_supply,wood_liquifaction,CH,cross202209,reference,seseth,TWh,annual,2050,0
-domestic-alone,liquids_supply,waste_liquifaction,CH,cross202209,reference,seseth,TWh,annual,2050,0
+domestic-alone,liquids_supply,wood_liquefaction,CH,cross202209,reference,seseth,TWh,annual,2050,0
+domestic-alone,liquids_supply,waste_liquefaction,CH,cross202209,reference,seseth,TWh,annual,2050,0
 domestic-alone,liquids_supply,imports_diesel,CH,cross202209,reference,seseth,TWh,annual,2050,0
 domestic-alone,liquids_supply,imports_biodiesel,CH,cross202209,reference,seseth,TWh,annual,2050,0
 domestic-alone,process_heat_useful_energy_production,boiler_methane,CH,cross202209,reference,seseth,TWh,annual,2050,3.46666002
