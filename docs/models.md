@@ -12,7 +12,7 @@ nav_order: 4
 | `ehub`|	EHUB|	E-hub tool|
 | `expanse`|	EXPANSE	| EXploration of PAtterns in Near-optimal Energy ScEnarios|
 | `nexuse`|	Nexus-e	|Nexus-e|
-| `PowerCheck`|	PowerCheck	|PowerCheck|
+| `powercheck`|	PowerCheck	|PowerCheck|
 | `secmod`|	SecModel|	SecMOD|
 | `stem`|	STEM|	Swiss TIMES Energy Systems Model|
 | `seseth`|	SES-ETH	|Swiss Energy Scope - ETH|
