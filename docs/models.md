@@ -11,7 +11,8 @@ nav_order: 4
 | `calliope`|	CALLIOPE	| Calliope and Euro-Calliope|
 | `ehub`|	EHUB|	E-hub tool|
 | `expanse`|	EXPANSE	| EXploration of PAtterns in Near-optimal Energy ScEnarios|
-| `nexuse`|	NEXUS-E	|Nexus-e|
+| `nexuse`|	Nexus-e	|Nexus-e|
+| `PowerCheck`|	PowerCheck	|PowerCheck|
 | `secmod`|	SecModel|	SecMOD|
 | `stem`|	STEM|	Swiss TIMES Energy Systems Model|
 | `seseth`|	SES-ETH	|Swiss Energy Scope - ETH|
