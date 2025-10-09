@@ -21,7 +21,7 @@ Once you have prepared the data, follow these steps:
 
 1. Go to the [upload page](https://app.sweetcross.link/dashboard) 
 2. Sign in with your model credentials
-3. Upload the Excel or CSV file
+3. Upload **one single** Excel or CSV file
 
 {: .warning }
 The platform validates the file. It checks column names, variable names, units, etc. If any specifications are not met, the submission will fail and an error will be returned

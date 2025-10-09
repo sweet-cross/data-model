@@ -31,7 +31,7 @@ nav_order: 2
 The platform accepts two file formats: comma-separated values (csv) and Excel (xlsx).
 
 {: .important }
-The submitted file must include all category and value columns.
+You should submit **one single file***. The submitted file must include all category and value columns.
 
 File type | Sheet |Category columns | Value columns | Template and example file |
 | ---- | ---- | ---- | ---- | --- | 
