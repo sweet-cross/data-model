@@ -2,7 +2,7 @@
 title: tech_heat
 parent: Sets
 layout: default
-nav_order: 3
+nav_order: 8
 ---
 
 # Heat technologies

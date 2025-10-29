@@ -2,7 +2,7 @@
 title: tech_methane
 parent: Sets
 layout: default
-nav_order: 6
+nav_order: 11
 ---
 
 # Methane production technologies

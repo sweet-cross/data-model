@@ -1,0 +1,23 @@
+id,level,id_parent,label_en,label_de,label_fr,explanation_en
+passenger_rail,0,,"Rail transport, it includes trains, rack railways, funiculars and aerial cableways","Schiene: Eisenbahnen
+Spezialbahnen
+Zahnradbahnen
+Standseilbahnen
+Luftseilbahnen","Rail: 
+Chemins de fer
+Chemins de fer à crémaillère
+Funiculaires
+Téléphériques",
+passenger_road,0,,Road transport,Strasse,Route,
+road_public,1,passenger_road,Public road transport,Öffentlicher Verkehr,Transports publics,
+tram,2,road_public,Tram,Tram,Trams ,
+trolley,2,road_public,Trolley buses,Trolleybusse,Trolleybus,
+bus,2,road_public,Buses,Busverkehr,Autobus,
+road_private,1,passenger_road,Private road transport,Privater motorisierter Verkehr,Transports privés motorisés,
+passenger_car,2,road_private,Private cars,Personenwagen und Privatcars,Cars et Voitures de tourisme,
+motorcycle,2,road_private,Motorcycles,Motorräder,Motocycles,
+moped_ebike,2,road_private,Mopeds and e-bikes,Motorfahrräder,"Cyclomoteurs, y. c. vélos électriques rapides",
+slow_private,1,passenger_road,Slow private transport,Langsamverkehr,Mobilité douce,
+bike,2,slow_private,Bicycles,Fahrräder,"Bicyclettes, y. c. vélos électriques lents",
+foot,2,slow_private,By foot,zu Fuss,À pied,
+other_private,0,,Other private transport mode,Andere,Autre,

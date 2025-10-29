@@ -2,7 +2,7 @@
 title: tech_storage
 parent: Sets
 layout: default
-nav_order: 7
+nav_order: 12
 ---
 
 # Storage technologies

@@ -1,0 +1,5 @@
+id,level,id_parent,label_en,label_de,label_fr,explanation_en
+freight_rail,0,,Freight rail,Schiene (Eisenbahnen),Rail (chemins de fer),
+freight_road,0,,Freight road,Strasse,Route,
+ldv,1,freight_road,Light Duty Vehicles (LDV),Leichte Nutzfahrzeuge (LWE),Véhicules utilitaires légers (EVL),
+truck,1,freight_road,Trucks,davon schwere Fahrzeuge,dont véhicules lourds,

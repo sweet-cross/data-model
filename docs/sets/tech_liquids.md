@@ -2,7 +2,7 @@
 title: tech_liquids
 parent: Sets
 layout: default
-nav_order: 5
+nav_order: 10
 ---
 
 # Liquid fuel production technologies

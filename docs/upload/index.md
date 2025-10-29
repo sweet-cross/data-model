@@ -1,5 +1,5 @@
 ---
-title: upload
+title: Upload
 layout: default
 has_toc: false
 nav_order: 6
@@ -10,7 +10,7 @@ nav_order: 6
 
 ## Prepare the data
 
-The first step in submitting data is preparing your data files. The platform accepts two types of [data files](/instructions-data/docs/files): CSV and Excel (in a fixed format). We also require a standard naming convention for [variable names](/instructions-data/docs/variables).
+The first step in submitting data is preparing your data files. The platform accepts two types of [data files](/instructions-data/docs/upload/files): CSV and Excel (in a fixed format). We also require a standard naming convention for [variable names](/instructions-data/docs/variables).
 
 
 ## Upload the data

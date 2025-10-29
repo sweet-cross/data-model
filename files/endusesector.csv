@@ -1,0 +1,5 @@
+id,level,id_parent,label_en,label_de,label_fr,explanation_en
+residential,0,,Residential,Haushalte,Ménages,
+industrial,0,,Industrial,Industrie,Industrie,
+commercial,0,,Commercial and agriculture,Dienstleistungen und Landwirtschaft,Services et agriculture,
+transport,0,,Transport,Verkehr,Transports,

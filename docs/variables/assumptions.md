@@ -1,0 +1,29 @@
+---
+title: Assumptions
+parent: Variables
+layout: default
+nav_order: 2
+---
+
+# Model results variables
+
+Each variable is defined over a  [set of subcategories](/instructions-data/docs/sets/).
+
+| Variable name<br>`variable` | Description  | Sets (defined over) |
+| ---- | ------------ | ------------------------ |
+| Macro-economic assumptions |
+| `population` | Population |  |
+| `households` | Number of households | |
+| `working_population` | Working population |  |
+| `gdp` | Gross domestic product| |
+| `energy_reference_area` | Energy reference area | [`endusesector`](/instructions-data/docs/sets/endusesector), [`building`](/instructions-data/docs/sets/building), [`age`](/instructions-data/docs/sets/age) |
+| Demands |
+| `space_heating_useful_energy_demand` | Space heating useful energy demand | [`endusesector`](/instructions-data/docs/sets/endusesector) |
+| `warm_water_useful_energy_demand` | Warm water useful energy demand | [`endusesector`](/instructions-data/docs/sets/endusesector) |
+| `process_heat_useful_energy_demand` | Process heat useful energy demand | [`endusesector`](/instructions-data/docs/sets/endusesector) |
+| `electric_appliances_useful_energy_demand` | Electricity appliances useful energy demand | [`endusesector`](/instructions-data/docs/sets/endusesector) |
+| `passenger_transport_useful_energy_demand` | Passenger transport useful energy demand | [`trn_mode_private`](/instructions-data/docs/sets/trn_mode_private) |
+| `freight_transport_useful_energy_demand` | Freight transport useful energy demand | [`trn_mode_freight`](/instructions-data/docs/sets/trn_mode_freight) |
+| `aviation_fuel_demand` | Aviation fuel demand | [`fuel`](/instructions-data/docs/sets/fuel) |
+
+ 

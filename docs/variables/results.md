@@ -2,7 +2,7 @@
 title: Results
 parent: Variables
 layout: default
-nav_order: 1
+nav_order: 2
 ---
 
 # Model results variables
@@ -12,9 +12,9 @@ Each variable is defined over a  [set of subcategories](/instructions-data/docs/
 | Variable name<br>`variable` | Description  | Set (defined over)<br>`use_technology_fuel` |
 | ---- | ------------ | ------------------------ |
 | `electricity_consumption` | Electricity consumption by end-use | [`use_elec`](/instructions-data/docs/sets/use_elec) |
-| `electricity_consumption_typical_day` | Electricity consumption by end-use | [`use_elec`](/instructions-data/docs/sets/use_elec)|
+| `electricity_consumption_typical_day` | Electricity consumption by end-use - Hourly| [`use_elec`](/instructions-data/docs/sets/use_elec)|
 | `electricity_supply` | Electricity supply by technology | [`tech_generation`](/instructions-data/docs/sets/tech_generation) |
-| `electricity_supply_typical_day` | Electricity supply by technology | [`tech_generation`](/instructions-data/docs/sets/tech_generation)|
+| `electricity_supply_typical_day` | Electricity supply by technology - Hourly| [`tech_generation`](/instructions-data/docs/sets/tech_generation)|
 | `h2_fec` | Hydrogen final energy consumption by end-use | [`use_hydrogen`](/instructions-data/docs/sets/use_hydrogen) |
 | `h2_supply` | Hydrogen supply by technology | [`tech_hydrogen`](/instructions-data/docs/sets/tech_hydrogen) |
 | `liquids_fec`| Liquid fuels final energy consumption by end-use | [`use_liquids`](/instructions-data/docs/sets/use_liquids) |

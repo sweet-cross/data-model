@@ -2,7 +2,7 @@
 title: use_elec
 parent: Sets
 layout: default
-nav_order: 8
+nav_order: 15
 ---
 
 # Electricity end-uses

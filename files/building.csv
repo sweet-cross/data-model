@@ -1,0 +1,13 @@
+id,level,id_parent,label_en,label_de,label_fr,explanation_en
+residential,0,,Private Housing,Private Haushalte,Ménages,
+single_family_house,1,residential,Single-family house (SFH),Einfamilienhäuser,Maisons individuelles,
+multi_family_house,1,residential,Multi-family house (SFH),Mehrfamilienhäuser,Immeubles d'habitation,
+commercial,0,,Commercial buildings,Dienstleistung,Services,
+offices,1,commercial,Offices,Bürogebäude,,
+school,1,commercial,Schools,Schulen,,
+hospital,1,commercial,Hospitals,Spitäler/Heime,,Includes hospitals and homes
+stores,1,commercial,Stores,"Einzelhandel, Grosshandel",,
+hospitality,1,commercial,Hospitality,Gastgewerbe,,
+second_homes,1,commercial,Second homes,Zweit- und Ferienwohnungen,,
+commercial_others,1,commercial,"Agriculture, transport and other buildings for commercial use","Landw. Gebäude, Sonstige Gebäude und Verkehrsgebäude",,
+industrial,0,,Industrial buildings,Industriegebäude,Bâtiments industriels,
