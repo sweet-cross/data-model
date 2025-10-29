@@ -8,7 +8,7 @@ nav_order: 14
 {: .important }
 Used in variables: `passenger_transport_useful_energy_demand`
 
-# Modes freight transport
+# Modes passenger transport
 
 ```
 trn_mode_private

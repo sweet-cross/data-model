@@ -9,7 +9,7 @@ nav_order: 1
 Used in variables: `energy_reference_area`
 
 
-# Age
+# Building construction year
 
 ```
 age
