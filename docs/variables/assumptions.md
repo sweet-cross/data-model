@@ -35,6 +35,7 @@ Each variable is defined over a  [set of subcategories](/instructions-data/docs/
 ## Resources
 
 | Variable name<br>`variable` | Description  | Sets (defined over) |
+| ---- | ------------ | ------------------------ |
 | `import_prices` | Fuel import prices | [`fuel`](/instructions-data/docs/sets/fuel) |
 | `biomass_potential` | Biomass potentials | [`resource`](/instructions-data/docs/sets/resource) |
  
