@@ -23,4 +23,4 @@ Issues are the way to:
 
 - [Variables definition](/instructions-data/docs/variables/)
 - [Sets definition](/instructions-data/docs/sets/)
-- [Uploading a file to CROSSHub](/instructions-data/docs/uplaod/)
+- [Uploading a file to CROSSHub](/instructions-data/docs/upload/)   
