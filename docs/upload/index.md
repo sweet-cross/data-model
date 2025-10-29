@@ -1,7 +1,7 @@
 ---
 title: Upload results
 layout: default
-parent: files
+has_toc: false
 nav_order: 6
 ---
 

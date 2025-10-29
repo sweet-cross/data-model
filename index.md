@@ -5,7 +5,7 @@ nav_order: 1
 ---
 
 
-# CROSS data model - Ontology 
+# CROSS data model
 
 This is the documentation for the CROSS data model. It includes the definition of the variables and the sets along which those variables are defined.
 
@@ -23,4 +23,5 @@ Issues are the way to:
 
 {: .no_toc }
 {: .fs-6 .fw-300 }
+{:toc}
 
