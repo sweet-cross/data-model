@@ -11,7 +11,7 @@ Each variable is defined over a  [set of subcategories](/instructions-data/docs/
 
 | Variable name<br>`variable` | Description  | Sets (defined over) |
 | ---- | ------------ | ------------------------ |
-| Macro-economic assumptions |
+| <td colspan=3>Macro-economic assumptions |
 | `population` | Population |  |
 | `households` | Number of households | |
 | `working_population` | Working population |  |
@@ -25,5 +25,7 @@ Each variable is defined over a  [set of subcategories](/instructions-data/docs/
 | `passenger_transport_useful_energy_demand` | Passenger transport useful energy demand | [`trn_mode_private`](/instructions-data/docs/sets/trn_mode_private) |
 | `freight_transport_useful_energy_demand` | Freight transport useful energy demand | [`trn_mode_freight`](/instructions-data/docs/sets/trn_mode_freight) |
 | `aviation_fuel_demand` | Aviation fuel demand | [`fuel`](/instructions-data/docs/sets/fuel) |
-
+| Resources |
+| `import_prices` | Fuel import prices | [`fuel`](/instructions-data/docs/sets/fuel) |
+| `biomass_potential` | Biomass potentials | [`resource`](/instructions-data/docs/sets/resource) |
  
