@@ -5,31 +5,22 @@ nav_order: 1
 ---
 
 
-# CROSSHub
+# CROSS data model - Ontology 
 
-This document provides a guide to prepare and upload data to the CROSSHub (the CROSS data platform).
+This is the documentation for the CROSS data model. It includes the definition of the variables and the sets along which those variables are defined.
 
+## Report an issue
 
-## Prepare the data
+Issues are the way to:
+- Add/remove variables
+- Add/remove sets
+- Add/remove elements in a set 
 
-The first step in submitting data is preparing your data files. The platform accepts two types of [data files](/instructions-data/docs/files): CSV and Excel (in a fixed format). We also require a standard naming convention for [variable names](/instructions-data/docs/variables).
-
-
-## Upload the data
-
-Once you have prepared the data, follow these steps:
-
-1. Go to the [upload page](https://app.sweetcross.link/dashboard) 
-2. Sign in with your model credentials
-3. Upload **one single** Excel or CSV file
-
-{: .warning }
-The platform validates the file. It checks column names, variable names, units, etc. If any specifications are not met, the submission will fail and an error will be returned
+[Click here to report an issue](https://github.com/sweet-cross/instructions-data/issues/new?template=classification_variable_change.md)
 
 
+## Content of this website
 
-## Problems uploading data
+{: .no_toc }
+{: .fs-6 .fw-300 }
 
-If you encounter issues when uploading data, please send an email to [sweet-cross](mailto:sweet.cross.ch[at]gmail.com?subject=technicalproblem) including:
-- The file you tried to upload
-- A description of the error
