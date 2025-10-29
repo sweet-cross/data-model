@@ -1,6 +1,6 @@
 ---
 title: Files
-parent: upload
+parent: Upload
 layout: default
 nav_order: 1
 ---
