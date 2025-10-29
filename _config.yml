@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: CROSSHub
-description: Documention to upload data to CROSSHub
+title: CROSS
+description: CROSS Data model
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://github.com/sweet-cross/instructions-data" # the base hostname & protocol for your site, e.g. http://example.com
 repository: sweet-cross/instructions-data # for github-metadata
