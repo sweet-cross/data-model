@@ -1,5 +1,5 @@
 ---
-title: Upload results
+title: upload
 layout: default
 has_toc: false
 nav_order: 6

@@ -21,7 +21,6 @@ Issues are the way to:
 
 ## Content of this website
 
-{: .no_toc }
-{: .fs-6 .fw-300 }
-{:toc}
-
+- [Variables definition](/instructions-data/docs/variables/).
+- [Sets definition](/instructions-data/docs/sets/).
+- [Uploading a file to CROSSHub](/instructions-data/docs/uplaod/).
