@@ -19,7 +19,7 @@ Once you have prepared the data, follow these steps:
 
 1. Go to the [upload page](https://app.sweetcross.link/dashboard) 
 2. Sign in with your model credentials
-3. Upload **one single** Excel or CSV file following the [template](/instructions-data/docs/files)
+3. Upload **one single** Excel or CSV file following the [template](/instructions-data/docs/upload/files)
 
 {: .warning }
 The platform validates the file. It checks column names, variable names, units, etc. If any specifications are not met, the submission will fail and an error will be returned
@@ -33,8 +33,3 @@ It allows for the automatic submission of result files using python and without 
 description of the process and example code is proveded in the [documentation](https://sweet-cross.github.io/crossclient/api/#result-submission). The current version allows for automatic upload. In future releases we add the possibility to validate files locally, i.e., before the upload of the results.
 
 
-## Problems uploading data
-
-If you encounter issues when uploading data, please send an email to [sweet-cross](mailto:sweet.cross.ch[at]gmail.com?subject=technicalproblem) including:
-- The file you tried to upload
-- A description of the error

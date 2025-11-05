@@ -37,3 +37,8 @@ You can exclude all variables that are not part of your model results.
 Empty cells will return an error during submission
 
 
+## Problems uploading data
+
+If you encounter issues when uploading data, please send an email to [sweet-cross](mailto:sweet.cross.ch[at]gmail.com?subject=technicalproblem) including:
+- The file you tried to upload
+- A description of the error
