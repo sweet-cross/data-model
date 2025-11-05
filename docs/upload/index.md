@@ -26,7 +26,8 @@ The platform validates the file. It checks column names, variable names, units, 
 
 ## Automatic submission with the CROSS Client
 
-{: .warning } This is in experimental stage and subject to changes
+{: .warning } 
+This is in experimental stage and subject to changes
 
 [`crossclient`](https://sweet-cross.github.io/crossclient) is Python package developed to directly interact with the CROSS platform. 
 It allows for the automatic submission of result files using python and without any manual upload. A more detailed 
