@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Report an Issue
-nav_order: 7
+nav_order: 99
 ---
 
 # Report an Issue
