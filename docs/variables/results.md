@@ -7,7 +7,7 @@ nav_order: 2
 
 # Model results variables
 
-Each variable is defined over a  [set of subcategories](/instructions-data/docs/sets/).
+The following are the variables produced as results by energy system models. 
 
 | Variable name<br>`variable` | Description  | Set (defined over)<br>`use_technology_fuel` |
 | ---- | ------------ | ------------------------ |

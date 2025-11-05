@@ -7,7 +7,7 @@ nav_order: 2
 
 # Model assumptions 
 
-Each variable is defined over a  [set of subcategories](/instructions-data/docs/sets/).
+The following are the variables used as assumptions by energy system models. 
 
 ##  Macro-economic assumptions
 
