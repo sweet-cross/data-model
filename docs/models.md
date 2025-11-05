@@ -15,6 +15,7 @@ nav_order: 5
 | `powercheck`|	PowerCheck	|PowerCheck|
 | `secmod`|	SecModel|	SecMOD|
 | `stem`|	STEM|	Swiss TIMES Energy Systems Model|
+| `ses`|	SES	| Energy Scope |
 | `seseth`|	SES-ETH	|Swiss Energy Scope - ETH|
 | `zengarden`|	ZEN-Garden	|ZEN-Garden|
 
