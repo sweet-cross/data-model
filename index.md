@@ -7,7 +7,13 @@ nav_order: 1
 
 # CROSS data model
 
-This is the documentation for the CROSS data model. It includes the definition of the variables and the sets along which those variables are defined.
+This is the documentation for the CROSS data mode and instructions for uploading data to CROSSHub, including:
+- [Compulsory fields for uploading data](/instructions-data/docs/fields/)
+- [Variables definition](/instructions-data/docs/variables/)
+- [Sets definition](/instructions-data/docs/sets/)
+- [Registered scenarios](/instructions-data/docs/scenarios/)
+- [Registered models](/instructions-data/docs/models/)
+- [Uploading data to CROSSHub](/instructions-data/docs/upload/)   
 
 ## Report an issue
 
@@ -19,8 +25,3 @@ Issues are the way to:
 [Click here to report an issue](https://github.com/sweet-cross/instructions-data/issues/new?template=classification_variable_change.md)
 
 
-## Content of this website
-
-- [Variables definition](/instructions-data/docs/variables/)
-- [Sets definition](/instructions-data/docs/sets/)
-- [Uploading a file to CROSSHub](/instructions-data/docs/upload/)   
