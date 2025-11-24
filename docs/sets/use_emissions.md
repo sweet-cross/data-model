@@ -1,5 +1,5 @@
 ---
-title: use_elec
+title: use_emissions
 parent: Sets
 layout: default
 nav_order: 16
