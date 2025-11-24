@@ -16,6 +16,6 @@ nav_order: 2
 | `use_technology_fuel` | Subcategory including end-uses, technology or fuel, depending on the variable  | [Valid subcategories](/instructions-data/docs/use_technology_fuel)| `spv_rooftop`|
 | `country`             | Country        | `CH` ||
 | `model`               | Model ID         |  [Valid model IDs](/instructions-data/docs/models) | `seseth` |
-| `unit`                | Unit             | `TWh` (GWh/a) for annual data <br> `GW` (GWh/h) for hourly data | `TWh` |
+| `unit`                | Unit             | `TWh` (TWh/a), <br> `GW` (GWh/h) <br> `BCHF` <br> `CHF/tCO2`<br> `MtCO2` | `TWh` |
 | `time_resolution`     | Time resolution  | `annual` <br> `typical-day`   |
 | `timestamp`           | Timestamp, depending on the time_resolution       | `annual`: `yyyy`<br>`typical-day`: `dd.MM.yyyy HH:mm`  | `2050` <br> `01.02.2050 07:00` |
