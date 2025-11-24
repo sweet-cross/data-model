@@ -16,8 +16,8 @@ use_hydrogen
 │   ├── hydrogen_pp              # Hydrogen thermal power plant
 │   └── fuel_cell_h2             # Fuel cell using hydrogen
 ├── storage                      # Hydrogen storage
-│   ├── h2_short_storage         # Hydrogen-short-term
-│   └── h2_long_storage          # Hydrogen-long-term
+│   ├── h2_short_storage         # Hydrogen short-term storage
+│   └── h2_long_storage          # Hydrogen long-term storage
 ├── passenger                    # Passenger hydrogen vehicles
 │   ├── passenger_road_public    # Private passenger hydrogen vehicles
 │   └── passenger_road_private   # Public passenger hydrogen vehicles

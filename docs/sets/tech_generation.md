@@ -65,22 +65,24 @@ tech_generation
 │   ├── fuel_cell_h2                # Fuel cell using hydrogen
 │   └── fuel_cell_methane           # Fuel cell using methane
 ├── renewable                       # Renewables
-│   ├── hydro                       # Hydopower
-│   │   ├── hydro_dam               # Hydro Dams
-│   │   └── hydro_ror               # Run-off-river
-│   ├── spv                         # Solar PV
-│   │   ├── spv_rooftop             # Rooftop solar PV
-│   │   ├── spv_facade              # Facade solar PV
-│   │   └── spv_mountain            # Mountain solar PV
+│   ├── hydro                       # Hydopower (post-curtailment)
+│   │   ├── hydro_dam               # Hydro Dams (post-curtailment)
+│   │   └── hydro_ror               # Run-off-river (post-curtailment)
+│   ├── renewable_other             # Other renewables
+│   │   └── spv                     # Solar photovotaics (PV, post-curtailment)
+│   │      ├── spv_rooftop          # Rooftop solar PV (post-curtailment)
+│   │      ├── spv_facade           # Facade solar PV (post-curtailment)
+│   │      ├── spv_mountain         # Mountain solar PV (post-curtailment)
+│   │      └── spv_agriculture      # Agricultural PV (post-curtailment)
 │   ├── wind                        # Wind
 │   │   ├── wind_on                 # Wind onshore
 │   │   └── wind_off                # Wind offshore
 │   └── geothermal_pp               # Geothermal
-├── renewable_other                 # Other renewables
 ├── imports                         # Imports of electricity
-└── storage_elec                    # Electricity storage
-   ├── battery_out                  # Discharge of batteries
-   └── phs_out                      # Discharge of pumped hydro storage
+├── storage_elec                    # Electricity storage
+│   ├── battery_out                 # Discharge of batteries
+│   └── phs_out                     # Discharge of pumped hydro storage
+└── curtailment                     # Curtailed electricity from any source
 ```
 [Download csv file with labels](/instructions-data/files/tech_generation.csv)
  

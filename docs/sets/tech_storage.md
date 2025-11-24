@@ -13,11 +13,11 @@ Used in variables: `storage_installed_volume`, `storage_output`
 ```
 tech_storage
 ├── thermal             # Thermal energy storage
-│   ├── thermal_short   # Short term thermal energy storage
-│   └── thermal_long    # Long term thermal energy storage
-├── h2                  # Hydrogen
-│   ├── h2_short        # Hydrogen-short-term
-│   └── h2_long         # Hydrogen-long-term
+│   ├── thermal_short   # Short-term thermal energy storage
+│   └── thermal_long    # Long-term thermal energy storage
+├── h2                  # Hydrogen storage
+│   ├── h2_short        # Short-term hydrogen storage
+│   └── h2_long         # Long-term hydrogen storage
 ├── electricity         # Electricity storage
 │   ├── batteries       # Battery storage
 │   └── phs             # Pumped hydro storage

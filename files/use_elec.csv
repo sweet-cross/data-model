@@ -1,28 +1,30 @@
-id,level,id_parent,label_en,label_de,label_fr,explanation_en
-elec_appliances,0,,Electricity used for appliances and motors in all sectors,,,
-storage,0,,Electricity storage,,,
-battery_in,1,storage,Charging of batteries,,,
-phs_in,0,,Pumped hydro charging,,,
-passenger,0,,Passenger electric vehicles,,,
-road_public,1,passenger,Private passenger electric vehicles,,,
-road_private,1,passenger,Public passenger electric vehicles,,,
-freight_road,0,,Electric road freight,,,
-truck,1,freight_road,Electric trucks,,,
-ldv,1,freight_road,Electric light duty vehicles,,,
-rail,0,,Rail,,,
-passenger_rail,1,rail,Passenger rail,,,
-freight_rail,1,rail,Freight rail,,,
-space_heating,0,,Electricity used for space heating,,,
-space_heating_boiler_electrode,1,space_heating,Electricity used for space heating using boiler electrode,,,
-space_heating_heater_elec,1,space_heating,Electricity used for space heating using electric heater,,,
-space_heating_heat_pump,1,space_heating,Electricity used for space heating using heat pump,,,
-process_heat,0,,Electricity used for process heat production,,,
-process_heat_boiler_electrode,1,process_heat,Electricity used for process heat production using boiler electrode,,,
-process_heat_heater_elec,1,process_heat,Electricity used for process heat production using electric heater,,,
-process_heat_heat_pump,1,process_heat,Electricity used for process heat production using heat pump,,,
-fuel_production,0,,Electricity used for fuel production,,,
-electrolysis,1,fuel_production,Electricity used for hydrogen production with electrolysis,,,
-power_to_liquid,1,fuel_production,Electricity used for power to liquids,,,
-exports,0,,Electricity exports,,,
-grid_losses,0,,Grid losses,,,
-dac,0,,Direct air capture,,,
+id,level,id_parent,label_en,label_de,label_fr,explanation_en,use,co2
+elec_appliances,0,,Electricity used for appliances and motors in all sectors,,,,1.0,1.0
+storage,0,,Electricity storage,,,,,
+battery_in,1,storage,Charging of batteries,,,,1.0,
+phs_in,0,,Pumped hydro charging,,,,1.0,
+passenger,0,,Passenger electric vehicles,,,,,1.0
+road_public,1,passenger,Private passenger electric vehicles,,,,1.0,
+road_private,1,passenger,Public passenger electric vehicles,,,,1.0,
+freight_road,0,,Electric road freight,,,,,1.0
+truck,1,freight_road,Electric trucks,,,,1.0,
+ldv,1,freight_road,Electric light duty vehicles,,,,1.0,
+rail,0,,Rail,,,,,1.0
+passenger_rail,1,rail,Passenger rail,,,,1.0,
+freight_rail,1,rail,Freight rail,,,,1.0,
+space_heating,0,,Electricity used for space heating,,,,,1.0
+space_heating_boiler_electrode,1,space_heating,Electricity used for space heating using boiler electrode,,,,1.0,
+space_heating_heater_elec,1,space_heating,Electricity used for space heating using electric heater,,,,1.0,
+space_heating_heat_pump,1,space_heating,Electricity used for space heating using heat pump,,,,1.0,
+process_heat,0,,Electricity used for process heat production,,,,,1.0
+process_heat_boiler_electrode,1,process_heat,Electricity used for process heat production using boiler electrode,,,,1.0,
+process_heat_heater_elec,1,process_heat,Electricity used for process heat production using electric heater,,,,1.0,
+process_heat_heat_pump,1,process_heat,Electricity used for process heat production using heat pump,,,,1.0,
+fuel_production,0,,Electricity used for fuel production,,,,,1.0
+electrolysis,1,fuel_production,Electricity used for hydrogen production with electrolysis,,,,1.0,
+power_to_liquid,1,fuel_production,Electricity used for power to liquids,,,,1.0,
+exports,0,,Electricity exports,,,,1.0,
+grid_losses,0,,Grid losses across all grid levels,,,,1.0,
+storage_losses,0,,Storage losses,,,,1.0,
+dac,0,,Electricity used for carbon capture and storage (including DAC),,,,1.0,1.0
+data_centers,0,,Electricity used in data centers,,,,1.0,

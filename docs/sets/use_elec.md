@@ -37,8 +37,10 @@ use_elec
 │   ├── electrolysis                     # Electricity used for hydrogen production with electrolysis
 │   └── power_to_liquid                  # Electricity used for power to liquids
 ├── exports                              # Electricity exports
-├── grid_losses                          # Grid losses
-└── dac                                  # Direct air capture
+├── grid_losses                          # Grid losses across all grid levels
+├── storage_losses                       # Storage losses
+├── dac                                  # Electricity used for carbon capture and storage (including DAC)
+└── data_centers                         # Electricity used in data centers
 ```
 [Download csv file with labels](/instructions-data/files/use_elec.csv)
 

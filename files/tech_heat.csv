@@ -1,26 +1,28 @@
-id,level,id_parent,label_en,
-boiler,0,,Boiler,
-boiler_methane,1,boiler,Methane boiler,
-boiler_h2,1,boiler,Hydrogen boiler,
-boiler_liquids,1,boiler,Liquid fuel boiler,
-boiler_wood,1,boiler,Wood boiler,
-boiler_wood_chips,2,boiler_wood,Wood chips boiler,
-boiler_wood_pellets,2,boiler_wood,Wood pellets boiler,
-boiler_waste,1,boiler,Waste boiler,
-boiler_coal,1,boiler,Coal boiler,
-boiler_electrode,1,boiler,Electrode boiler,
-chp,0,,Combined heat and power,
-chp_methane,1,chp,Methane CHP,
-chp_h2,1,chp,Hydrogen CHP,
-chp_liquids,1,chp,Liquid fuel CHP,
-chp_wood,1,chp,Wood CHP,
-chp_waste,1,chp,Waste CHP,
-chp_coal,1,chp,Coal CHP,
-heat_pump,0,,Heat pump,
-air_source,1,heat_pump,Air source heat pump,
-ground_source,1,heat_pump,Ground source heat pump,
-water_source,1,heat_pump,Water source heat pump,
-heater_elec,0,,Electric heater,
-solar_thermal,0,,Solar thermal,
-geothermal_heat,0,,Geothermal,
-district_heat,0,,District heat,
+id,level,id_parent,label_en,label_de,label_fr,explanation_en,tech,tech_nodis
+boiler,0,,Boiler,,,,,
+boiler_methane,1,boiler,Methane boiler,,,,1.0,1.0
+boiler_h2,1,boiler,Hydrogen boiler,,,,1.0,1.0
+boiler_liquids,1,boiler,Liquid fuel boiler,,,,1.0,1.0
+boiler_wood,1,boiler,Wood boiler,,,,1.0,1.0
+boiler_wood_chips,2,boiler_wood,Wood chips boiler,,,,,
+boiler_wood_pellets,2,boiler_wood,Wood pellets boiler,,,,,
+boiler_waste,1,boiler,Waste boiler,,,,1.0,1.0
+boiler_coal,1,boiler,Coal boiler,,,,1.0,1.0
+boiler_electrode,1,boiler,Electrode boiler,,,,1.0,1.0
+chp,0,,Combined heat and power,,,,,
+chp_methane,1,chp,Methane CHP,,,,1.0,1.0
+chp_h2,1,chp,Hydrogen CHP,,,,1.0,1.0
+chp_liquids,1,chp,Liquid fuel CHP,,,,1.0,1.0
+chp_wood,1,chp,Wood CHP,,,,1.0,1.0
+chp_waste,1,chp,Waste CHP,,,,1.0,1.0
+chp_coal,1,chp,Coal CHP,,,,1.0,1.0
+heat_pump,0,,Heat pump,Wärmepumpen,,,1.0,1.0
+air_source,1,heat_pump,Air source heat pump,,,,1.0,1.0
+ground_source,1,heat_pump,Ground source heat pump,,,,1.0,1.0
+water_source,1,heat_pump,Water source heat pump,,,,1.0,1.0
+heater_elec,0,,Electric heater,,,,1.0,1.0
+solar_thermal,0,,Solar thermal,,,,1.0,1.0
+geothermal_heat,0,,Geothermal,Geothermieanlagen,,,1.0,1.0
+district_heat,0,,District heat,,,,1.0,
+storage_thermal_out,0,,Thermal storage,,,,1.0,1.0
+data_centers,0,,Waste heat from data centers,,,,1.0,1.0

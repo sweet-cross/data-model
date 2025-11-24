@@ -36,7 +36,9 @@ tech_heat
 ├── heater_elec                   # Electric heater
 ├── solar_thermal                 # Solar thermal
 ├── geothermal_heat               # Geothermal
-└── district_heat                 # District heat
+├── district_heat                 # District heat
+├── storage_thermal_out           # Thermal storage
+└── data_centers                  # Waste heat from data centers
 ```
 [Download csv file with labels](/instructions-data/files/tech_heat.csv)
 
