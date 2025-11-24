@@ -12,7 +12,7 @@ The following are the variables produced as results by energy system models.
 | Variable name<br>`variable` | Description  | Set (defined over)<br>`use_technology_fuel` | Unit<br>`unit` |
 | ---- | ------------ | ------------------------ |
 | `electricity_consumption` | Electricity consumption by end-use | [`use_elec`](/instructions-data/docs/sets/use_elec) | `TWh` |
-| `electricity_consumption_typical_day` | Electricity consumption by end-use - Hourly| [`use_elec`](/instructions-data/docs/sets/use_elec)| | `GW` |
+| `electricity_consumption_typical_day` | Electricity consumption by end-use - Hourly| [`use_elec`](/instructions-data/docs/sets/use_elec)| `GW` |
 | `electricity_supply` | Electricity supply by technology | [`tech_generation`](/instructions-data/docs/sets/tech_generation) | `TWh` |
 | `electricity_supply_typical_day` | Electricity supply by technology - Hourly| [`tech_generation`](/instructions-data/docs/sets/tech_generation)|`GW` |
 | `installed_capacity` | Total installed capacity by electricity generation technology| [`tech_generation`](/instructions-data/docs/sets/tech_generation)|`GW` |
