@@ -12,21 +12,20 @@ Used in variables: `carbon_emissions`
 
 ```
 use_emissions
-├── elec_appliances                      # Electricity used for appliances and motors in all sectors
-├── passenger                            # Passenger electric vehicles
-│   ├── road_public                      # Private passenger electric vehicles
-│   └── road_private                     # Public passenger electric vehicles
-├── freight_road                         # Electric road freight
-│   ├── truck                            # Electric trucks
-│   └── ldv                              # Electric light duty vehicles
-├── rail                                 # Rail
-│   ├── passenger_rail                   # Passenger rail
-│   └── freight_rail                     # Freight rail
-├── space_heating                        # Electricity used for space heating
-├── process_heat                         # Electricity used for process heat production
-├── fuel_production                      # Electricity used for fuel production
-├── storage_losses                       # Storage losses
-├── dac                                  # Electricity used for carbon capture and storage (including DAC)
+├── elec_appliances                      # Emissions from electricity used for appliances and motors in all sectors
+├── passenger                            # Emissions from passenger electric vehicles
+│   ├── road_public                      # Emissions from private passenger electric vehicles
+│   └── road_private                     # Emissions from public passenger electric vehicles
+├── freight_road                         # Emissions from electricity used for road freight
+│   ├── truck                            # Emissions from electricity used for electric trucks
+│   └── ldv                              # Emissions from electricity used for electric light duty vehicles
+├── rail                                 # Emissions from rail transport
+│   ├── passenger_rail                   # Emissions from passenger rail transport
+│   └── freight_rail                     # Emissions from freight rail
+├── space_heating                        # Emissions from energy used for space heating
+├── process_heat                         # Emissions from energy used for process heat production
+├── fuel_production                      # Emissions from energy used for fuel production
+├── dac                                  # Emissions captured by DAC
 ```
 
 
