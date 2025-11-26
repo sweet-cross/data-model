@@ -15,7 +15,7 @@ use_elec
 ├── elec_appliances                      # Electricity used for appliances and motors in all sectors
 ├── storage                              # Electricity storage
 │   └── battery_in                       # Charging of batteries
-├── phs_in                               # Pumped hydro charging
+│   └── phs_in                           # Pumped hydro charging
 ├── passenger                            # Passenger electric vehicles
 │   ├── road_public                      # Private passenger electric vehicles
 │   └── road_private                     # Public passenger electric vehicles
