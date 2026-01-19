@@ -27,5 +27,5 @@ trn_mode_private
 │      └── foot             # By foot
 └── other_private           # Other private transport mode
 ```
-[Download csv file with labels](/instructions-data/files/trn_mode_private.csv)
+[Download csv file with labels](/data-model/files/trn_mode_private.csv)
 

@@ -20,5 +20,5 @@ tech_methane
 ├── imports_methane                  # Methane (not-fossil) imports
 └── imports_gas                      # Natural gas imports
 ```
-[Download csv file with labels](/instructions-data/files/tech_methane.csv)
+[Download csv file with labels](/data-model/files/tech_methane.csv)
 

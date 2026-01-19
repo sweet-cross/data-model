@@ -26,5 +26,5 @@ building
 │   └── commercial_others     # Agriculture, transport and other buildings for commercial use
 └── industrial                # Industrial buildings
 ```
-[Download csv file with labels](/instructions-data/files/building.csv)
+[Download csv file with labels](/data-model/files/building.csv)
 

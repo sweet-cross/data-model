@@ -16,8 +16,8 @@
 title: CROSS
 description: CROSS Data model
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://github.com/sweet-cross/instructions-data" # the base hostname & protocol for your site, e.g. http://example.com
-repository: sweet-cross/instructions-data # for github-metadata
+url: "https://github.com/sweet-cross/data-model" # the base hostname & protocol for your site, e.g. http://example.com
+repository: sweet-cross/data-model # for github-metadata
 
 permalink: pretty
 
@@ -152,7 +152,7 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true # show or hide edit this page link
 gh_edit_link_text: "Edit this page on GitHub"
-gh_edit_repository: "https://github.com/sweet-cross/instructions-data" # the github URL for your repo
+gh_edit_repository: "https://github.com/sweet-cross/data-model" # the github URL for your repo
 gh_edit_branch: "main" # the branch that your docs is served from
 # gh_edit_source: docs # the source that your files originate from
 gh_edit_view_mode: "tree" # "tree" or "edit" if you want the user to jump into the editor immediately

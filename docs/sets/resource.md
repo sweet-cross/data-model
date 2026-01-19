@@ -46,5 +46,5 @@ resource
    ├── mixed                      # Mixed waste
    └── other_waste                # Other waste fraction
 ```
-[Download csv file with labels](/instructions-data/files/resource.csv)
+[Download csv file with labels](/data-model/files/resource.csv)
 

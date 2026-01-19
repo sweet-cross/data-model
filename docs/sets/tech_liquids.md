@@ -20,4 +20,4 @@ tech_liquids
 └── imports_biodiesel        # Biofuels liquids imports
 ```
 
-[Download csv file with labels](/instructions-data/files/tech_liquids.csv)
+[Download csv file with labels](/data-model/files/tech_liquids.csv)

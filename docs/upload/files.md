@@ -19,8 +19,8 @@ You should submit **one single file**. The submitted file must include all categ
 
 File type | Sheet |Category columns | Value columns | Templates |
 | ---- | ---- | ---- | ---- | --- | 
-csv | | `scenario_group`, `scenario_name`, `scenario_variant`, `variable`, `use_technology_fuel`, `country`, `model`, `unit`, `time_resolution`, `timestamp` | `value` |[`cross2025`](/instructions-data/files/resultsCross_stacked.csv)<br>[`nuclear2025`](/instructions-data/files/results_cross_nuclear2025_stacked.csv)| 
-excel |  `annual` | `scenario_group`, `scenario_name`, `scenario_variant`, `variable`, `use_technology_fuel`, `country`, `model`, `unit`, `time_resolution`, `timestamp` | One column per year with header `yyyy` |[`cross2025`](/instructions-data/files/resultsCross_excel.xlsx) <br> [`nuclear2025`](/instructions-data/files/results_cross_nuclear2025.xlsx)|  
+csv | | `scenario_group`, `scenario_name`, `scenario_variant`, `variable`, `use_technology_fuel`, `country`, `model`, `unit`, `time_resolution`, `timestamp` | `value` |[`cross2025`](/data-model/files/resultsCross_stacked.csv)<br>[`nuclear2025`](/data-model/files/results_cross_nuclear2025_stacked.csv)| 
+excel |  `annual` | `scenario_group`, `scenario_name`, `scenario_variant`, `variable`, `use_technology_fuel`, `country`, `model`, `unit`, `time_resolution`, `timestamp` | One column per year with header `yyyy` |[`cross2025`](/data-model/files/resultsCross_excel.xlsx) <br> [`nuclear2025`](/data-model/files/results_cross_nuclear2025.xlsx)|  
 | `hourly` | `scenario_group`, `scenario_name`, `scenario_variant`, `variable`, `use_technology_fuel`, `country`, `model`, `unit`, `time_resolution`, `timestamp` | One column per typical day with header `dd.MM.yyyy HH:mm` | 
 
 

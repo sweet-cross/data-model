@@ -17,5 +17,5 @@ trn_mode_freight
    ├── ldv         # Light Duty Vehicles (LDV)
    └── truck       # Trucks
 ```
-[Download csv file with labels](/instructions-data/files/trn_mode_freight.csv)
+[Download csv file with labels](/data-model/files/trn_mode_freight.csv)
 

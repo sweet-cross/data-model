@@ -21,6 +21,6 @@ tech_hydrogen
 ├── methane_pyrolysis           # Methane pyrolysis
 └── imports                     # Hydrogen imports
 ```
-[Download csv file with labels](/instructions-data/files/tech_hydrogen.csv)
+[Download csv file with labels](/data-model/files/tech_hydrogen.csv)
 
 

@@ -30,4 +30,4 @@ use_hydrogen
 └── exports                      # Hydrogen exports
 ```
     
-[Download csv file with labels](/instructions-data/files/use_hydrogen.csv)
+[Download csv file with labels](/data-model/files/use_hydrogen.csv)

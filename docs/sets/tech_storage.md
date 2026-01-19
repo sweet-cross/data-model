@@ -26,4 +26,4 @@ tech_storage
 └── waste               # Waste storage
 ```
 
-[Download csv file with labels](/instructions-data/files/tech_storage.csv)
+[Download csv file with labels](/data-model/files/tech_storage.csv)

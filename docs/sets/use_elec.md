@@ -42,5 +42,5 @@ use_elec
 ├── dac                                  # Electricity used for carbon capture and storage (including DAC)
 └── data_centers                         # Electricity used in data centers
 ```
-[Download csv file with labels](/instructions-data/files/use_elec.csv)
+[Download csv file with labels](/data-model/files/use_elec.csv)
 

@@ -40,5 +40,5 @@ tech_heat
 ├── storage_thermal_out           # Thermal storage
 └── data_centers                  # Waste heat from data centers
 ```
-[Download csv file with labels](/instructions-data/files/tech_heat.csv)
+[Download csv file with labels](/data-model/files/tech_heat.csv)
 

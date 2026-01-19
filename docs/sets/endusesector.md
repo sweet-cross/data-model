@@ -18,5 +18,5 @@ endusesector
 ├── commercial    # Commercial and agriculture
 └── transport     # Transport
 ```
-[Download csv file with labels](/instructions-data/files/endusesector.csv)
+[Download csv file with labels](/data-model/files/endusesector.csv)
 

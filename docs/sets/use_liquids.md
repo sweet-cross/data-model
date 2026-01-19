@@ -26,6 +26,6 @@ use_liquids
 └── exports                      # Liquid fuel exports
 ```
 
-[Download csv file with labels](/instructions-data/files/use_liquids.csv)
+[Download csv file with labels](/data-model/files/use_liquids.csv)
 
 

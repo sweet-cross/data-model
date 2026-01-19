@@ -84,7 +84,7 @@ tech_generation
 │   └── phs_out                     # Discharge of pumped hydro storage
 └── curtailment                     # Curtailed electricity from any source
 ```
-[Download csv file with labels](/instructions-data/files/tech_generation.csv)
+[Download csv file with labels](/data-model/files/tech_generation.csv)
  
 
 

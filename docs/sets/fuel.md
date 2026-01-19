@@ -53,5 +53,5 @@ fuel
 ├── saf                           # Sustainable aviation fuel
 └── liquids                       # Liquid fuels
 ```
-[Download csv file with labels](/instructions-data/files/fuel.csv)
+[Download csv file with labels](/data-model/files/fuel.csv)
 
