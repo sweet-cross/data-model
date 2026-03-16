@@ -51,7 +51,7 @@ use_methane
 | ---- | ------------ | ------------------------ |
 | `total_system_costs`| Total annual system costs | | `BCHF` |
 | `carbon_price`| Marginal price of carbon | | `CHF/tCO2` |
-| `carbon_emissions`| Carbon emissions by end-use | [`use_emissions`](/data-model/docs/sets/use_emissions)| `MtCO2` |
+| `carbon_emissions`| Carbon emissions by end-use | [`use_emissions`](/data-model/docs/dimensions/use_emissions)| `MtCO2` |
 
 
 ```
@@ -98,7 +98,7 @@ use_emissions
 
 | Variable name<br>`variable` | Description  | Dimension (defined over) <br>`use_technology_fuel` | Unit<br>`unit` |
 | ---- | ------------ | ------------------------ |
-| `space_heat_useful_energy_supply` | Space heat <b>and hot water</b> useful energy production by technology | [`tech_heat`](/data-model/docs/sets/tech_heat) |`TWh` |
+| `space_heat_useful_energy_supply` | Space heat <b>and hot water</b> useful energy production by technology | [`tech_heat`](/data-model/docs/dimensions/tech_heat) |`TWh` |
 
 
 
