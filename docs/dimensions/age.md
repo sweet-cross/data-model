@@ -1,6 +1,6 @@
 ---
 title: age
-parent: Sets
+parent: Dimensions
 layout: default
 nav_order: 1
 ---

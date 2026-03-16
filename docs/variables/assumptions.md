@@ -11,7 +11,7 @@ The following are the variables used as assumptions by energy system models.
 
 ##  Macro-economic assumptions
 
-| Variable name<br>`variable` | Description  | Sets (defined over) |
+| Variable name<br>`variable` | Description  | Dimensions (defined over) |
 | ---- | ------------ | ------------------------ |
 | `population` | Population |  |
 | `households` | Number of households | |

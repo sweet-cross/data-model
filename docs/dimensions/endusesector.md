@@ -1,6 +1,6 @@
 ---
 title: endusesector
-parent: Sets
+parent: Dimensions
 layout: default
 nav_order: 3
 ---

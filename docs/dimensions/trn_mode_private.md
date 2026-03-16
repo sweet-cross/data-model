@@ -1,6 +1,6 @@
 ---
 title: trn_mode_private
-parent: Sets
+parent: Dimensions
 layout: default
 nav_order: 14
 ---

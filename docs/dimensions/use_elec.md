@@ -1,6 +1,6 @@
 ---
 title: use_elec
-parent: Sets
+parent: Dimensions
 layout: default
 nav_order: 15
 ---

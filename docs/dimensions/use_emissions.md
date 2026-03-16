@@ -1,6 +1,6 @@
 ---
 title: use_emissions
-parent: Sets
+parent: Dimensions
 layout: default
 nav_order: 16
 ---

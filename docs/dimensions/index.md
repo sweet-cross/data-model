@@ -1,5 +1,5 @@
 ---
-title: Sets
+title: Dimensions
 nav_order: 4
 has_toc: false
 ---
@@ -8,7 +8,7 @@ has_toc: false
 
 Each variable is defined over one of the following set of subcategories.
 
-| Set name  | Description |
+| Dimension name  | Description |
 | ---- | ------------------------ |
 | [`age`](/data-model/docs/variables/sets/age)|  Building construction year|
 | [`building`](/data-model/docs/variables/sets/building)|  Building types|

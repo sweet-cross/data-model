@@ -1,6 +1,6 @@
 ---
 title: tech_generation
-parent: Sets
+parent: Dimensions
 layout: default
 nav_order: 7
 ---
@@ -73,7 +73,7 @@ tech_generation
 │   │      ├── spv_rooftop          # Rooftop solar PV (post-curtailment)
 │   │      ├── spv_facade           # Facade solar PV (post-curtailment)
 │   │      ├── spv_mountain         # Mountain solar PV (post-curtailment)
-│   │      └── spv_agriculture      # Agricultural PV (post-curtailment)
+│   │      └── spv_agriculture      # Agricultural or field PV (post-curtailment)
 │   ├── wind                        # Wind
 │   │   ├── wind_on                 # Wind onshore
 │   │   └── wind_off                # Wind offshore

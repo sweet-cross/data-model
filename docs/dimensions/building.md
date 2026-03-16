@@ -1,6 +1,6 @@
 ---
 title: building
-parent: Sets
+parent: Dimensions
 layout: default
 nav_order: 2
 ---

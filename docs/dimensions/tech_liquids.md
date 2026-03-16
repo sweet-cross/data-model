@@ -1,6 +1,6 @@
 ---
 title: tech_liquids
-parent: Sets
+parent: Dimensions
 layout: default
 nav_order: 10
 ---
