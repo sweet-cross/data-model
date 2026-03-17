@@ -79,6 +79,7 @@ tech_generation
 │   │   └── wind_off                # Wind offshore
 │   └── geothermal_pp               # Geothermal
 ├── imports                         # Imports of electricity
+├── vehicle_to_grid                 # Vehicle to grid
 ├── storage_elec                    # Electricity storage
 │   ├── battery_out                 # Discharge of batteries
 │   └── phs_out                     # Discharge of pumped hydro storage

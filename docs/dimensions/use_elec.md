@@ -35,12 +35,14 @@ use_elec
 │   └── process_heat_heat_pump           # Electricity used for process heat production using heat pump
 ├── fuel_production                      # Electricity used for fuel production
 │   ├── electrolysis                     # Electricity used for hydrogen production with electrolysis
+│   ├── methane_pyrolysis                # Electricity used for methane pyrolysis
 │   └── power_to_liquid                  # Electricity used for power to liquids
 ├── exports                              # Electricity exports
 ├── grid_losses                          # Grid losses across all grid levels
 ├── storage_losses                       # Storage losses
 ├── dac                                  # Electricity used for carbon capture and storage (including DAC)
 └── data_centers                         # Electricity used in data centers
+├── other_elec	                         # Other uses of electricity
 ```
 [Download csv file with labels](/data-model/files/use_elec.csv)
 

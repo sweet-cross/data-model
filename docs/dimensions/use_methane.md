@@ -24,6 +24,7 @@ use_methane
 ├── process_heat                 # Methane used for process heat production
 ├── fuel_synthesis               # Methane used for fuel synthesis
 └── exports                      # Methane exports
+├── other_methane                # Other uses of methane
 ```
 
 [Download csv file with labels](/data-model/files/use_methane.csv)

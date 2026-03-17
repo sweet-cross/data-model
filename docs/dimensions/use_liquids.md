@@ -20,10 +20,13 @@ use_liquids
 ├── freight_road                 # Liquid fuel road freight
 │   ├── truck                    # Liquid fuel trucks
 │   └── ldv                      # Liquid fuel light duty vehicles
+└── aviation                     # Liquid fuel aviation
 ├── space_heating                # Liquid fuels used for space heating
 ├── process_heat                 # Liquid fuels used for process heat production
 ├── fuel_synthesis               # Liquid fuels used for fuel synthesis
 └── exports                      # Liquid fuel exports
+├── other_liquids                # Other uses of liquid fuels
+
 ```
 
 [Download csv file with labels](/data-model/files/use_liquids.csv)

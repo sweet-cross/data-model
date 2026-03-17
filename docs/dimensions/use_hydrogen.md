@@ -28,6 +28,7 @@ use_hydrogen
 ├── process_heat                 # Hydrogen used for process heat production
 ├── fuel_synthesis               # Hydrogen used for fuel synthesis
 └── exports                      # Hydrogen exports
+├── other_h2                     # Other uses of hydrogen
 ```
     
 [Download csv file with labels](/data-model/files/use_hydrogen.csv)

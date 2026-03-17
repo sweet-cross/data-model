@@ -39,6 +39,7 @@ tech_heat
 ├── district_heat                 # District heat
 ├── storage_thermal_out           # Thermal storage
 └── data_centers                  # Waste heat from data centers
+└── waste_heat                    # Waste heat from industrial processes
 ```
 [Download csv file with labels](/data-model/files/tech_heat.csv)
 
