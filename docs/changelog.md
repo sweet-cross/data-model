@@ -9,8 +9,6 @@ All notable changes to this project will be documented in this file.
 
 ## -2026-03-17
 ### Added
-- Features for future release
-
 ```
 tech_generation
 ├── vehicle_to_grid       # Vehicle to grid
