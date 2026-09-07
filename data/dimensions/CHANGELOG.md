@@ -6,6 +6,15 @@ dimension data bundle as a whole; see
 [docs/Dimensions/versioning.md](../../docs/Dimensions/versioning.md) for the
 bump-rule table and release process.
 
+## 0.2.4 — 2026-09-07
+
+- [MINOR] `dim_scenario`: row `74` structural change (group)
+- [MINOR] `dim_scenario`: row `75` structural change (group)
+- [MINOR] `dim_scenario`: row `76` structural change (group)
+- [MINOR] `dim_scenario`: row `78` structural change (group)
+- [MINOR] `dim_scenario`: row `79` structural change (group)
+- [MINOR] `dim_scenario`: row `80` structural change (group)
+
 ## 0.2.3 — 2026-09-04
 
 - [MINOR] `dim_scenario`: row `73` added
