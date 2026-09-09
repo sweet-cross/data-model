@@ -11,20 +11,6 @@ contract_type: ValueVariable
 #                ----- Frictionless Table Schema -----
 # ----------------------------------------------------------------------------
 tableschema:
-
-  # ----------------------------------------------------------------------------
-  #                SEMANTIC FIELD DESCRIPTION
-  # ----------------------------------------------------------------------------
-  fieldDescriptors:
-    - field: value
-      type: value
-    - field: year
-      type: time
-      frequency: yearly
-    - field: country
-      type: location
-      locationType: country
-
   # ----------------------------------------------------------------------------
   #                        FOREIGN KEY CONSTRAINTS
   # ----------------------------------------------------------------------------

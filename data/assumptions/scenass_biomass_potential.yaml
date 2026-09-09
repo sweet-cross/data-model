@@ -13,25 +13,12 @@ contract_type: ValueVariable
 tableschema:
 
   # ----------------------------------------------------------------------------
-  #                SEMANTIC FIELD DESCRIPTION
-  # ----------------------------------------------------------------------------
-  fieldDescriptors:
-    - field: value
-      type: value
-    - field: year
-      type: time
-      frequency: yearly
-    - field: country
-      type: location
-      locationType: country
-
-  # ----------------------------------------------------------------------------
   #                        FOREIGN KEY CONSTRAINTS
   # ----------------------------------------------------------------------------
   # A list of field names that are jointly unique. As it is an assumption table,
   # it include the scenario information. E.g.
   primaryKey:
-    [scenario_group, scenario_name, scenario_variant, resource, year, country]
+    [scenario_group, scenario_name, scenario_variant, resource, year, country, unit]
 
   foreignKeys:
     - fields: country

@@ -13,19 +13,6 @@ contract_type: ValueVariable
 tableschema:
 
   # ----------------------------------------------------------------------------
-  #                SEMANTIC FIELD DESCRIPTION
-  # ----------------------------------------------------------------------------
-  fieldDescriptors:
-    - field: value
-      type: value
-    - field: year
-      type: time
-      frequency: yearly
-    - field: country
-      type: location
-      locationType: country
-
-  # ----------------------------------------------------------------------------
   #                        FOREIGN KEY CONSTRAINTS
   # ----------------------------------------------------------------------------
   # A list of field names that are jointly unique. As it is an assumption table,
@@ -40,6 +27,7 @@ tableschema:
       building,
       year,
       age,
+      unit,
     ]
 
   # put the reference to cited fields (country left as example)
