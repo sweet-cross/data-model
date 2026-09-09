@@ -32,7 +32,7 @@ tableschema:
   # A list of field names that are jointly unique. As it is an assumption table,
   # it include the scenario information. E.g.
   primaryKey:
-    [scenario_group, scenario_name, scenario_variant, endusesector, year, country]
+    [scenario_group, scenario_name, scenario_variant, endusesector, year, country, unit]
 
   # put the reference to cited fields (country left as example)
   # see: https://specs.frictionlessdata.io/table-schema/#foreign-keys

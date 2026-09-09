@@ -32,7 +32,7 @@ tableschema:
   # ----------------------------------------------------------------------------
   #                        FOREIGN KEY CONSTRAINTS
   # ----------------------------------------------------------------------------
-  primaryKey: [ tyndp_scenario, from, to, year ]
+  primaryKey: [ tyndp_scenario, from, to, year, unit ]
 
   foreignKeys:
     - fields: from

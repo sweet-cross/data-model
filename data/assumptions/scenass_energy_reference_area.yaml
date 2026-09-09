@@ -40,6 +40,7 @@ tableschema:
       building,
       year,
       age,
+      unit,
     ]
 
   # put the reference to cited fields (country left as example)
