@@ -14,22 +14,6 @@ contract_type: ValueVariable
 # ----------------------------------------------------------------------------
 tableschema:
   # ----------------------------------------------------------------------------
-  #                SEMANTIC FIELD DESCRIPTION
-  # ----------------------------------------------------------------------------
-  fieldDescriptors:
-    - field: value
-      type: value
-    - field: year
-      type: time
-      frequency: yearly
-    - field: from
-      type: location
-      locationType: country
-    - field: to
-      type: location
-      locationType: country
-
-  # ----------------------------------------------------------------------------
   #                        FOREIGN KEY CONSTRAINTS
   # ----------------------------------------------------------------------------
   primaryKey: [ tyndp_scenario, from, to, year, unit ]
